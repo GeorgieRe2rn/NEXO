@@ -1,0 +1,26 @@
+{
+  "requested": 277,
+  "stored": 277,
+  "unavailable": 0,
+  "remaining": 0,
+  "observations_total": 277,
+  "snapshots_created": 118,
+  "untouched": {
+    "result_and_goals": true,
+    "predictions": true,
+    "match_stats": true,
+    "matches": true
+  },
+  "checked_at": "2026-10-16T07:19:51.874032+00:00",
+  "complete_published_counters": 277,
+  "pending_count_selections": {
+    "corners": 118,
+    "yellows": 118
+  },
+  "recovered_selections": 130,
+  "tests": {
+    "backend": 73,
+    "frontend": 5,
+    "build": "passed"
+  }
+}

@@ -1,0 +1,2335 @@
+{
+  "date": "2026-10-15",
+  "catalog": {
+    "date": "2026-10-15",
+    "timezone": "America/Hermosillo",
+    "fetched_at": "2026-10-15T07:14:43.189122+00:00",
+    "items": [
+      {
+        "id": "soccer:401900450",
+        "provider_id": "401900450",
+        "sport": "soccer",
+        "sport_name": "Fútbol",
+        "competition": {
+          "name": "Saudi Pro League",
+          "slug": "ksa.1"
+        },
+        "kickoff": "2026-10-15T13:40Z",
+        "status": "SCHEDULED",
+        "home": "Al Faisaly",
+        "away": "Al Kholood",
+        "match_id": 2676,
+        "forecast_available": true,
+        "source_url": "https://www.espn.com/soccer/match/_/gameId/401900450/al-kholood-al-faisaly",
+        "draftea_verified": false,
+        "draftea_reference": {
+          "pick": "Al-Faisaly",
+          "american_odds": 234,
+          "implied_probability": 0.2994011976047904,
+          "date": "2026-10-15",
+          "source": "Capturas de Draftea aportadas por el usuario",
+          "live_verified": false,
+          "note": "Probabilidad implícita del precio, con margen de la casa; no es una probabilidad validada del modelo ni una apuesta segura."
+        },
+        "forecast_reason": "Previo y registro automático disponibles",
+        "forecast_markets": [
+          "result",
+          "goals",
+          "corners",
+          "yellows"
+        ],
+        "automatic_count": 4
+      },
+      {
+        "id": "soccer:401900902",
+        "provider_id": "401900902",
+        "sport": "soccer",
+        "sport_name": "Fútbol",
+        "competition": {
+          "name": "Saudi Pro League",
+          "slug": "ksa.1"
+        },
+        "kickoff": "2026-10-15T14:50Z",
+        "status": "SCHEDULED",
+        "home": "Al Khaleej",
+        "away": "Al Fayha",
+        "match_id": 2677,
+        "forecast_available": true,
+        "source_url": "https://www.espn.com/soccer/match/_/gameId/401900902/al-fayha-al-khaleej",
+        "draftea_verified": false,
+        "draftea_reference": {
+          "pick": "Al Khaleej",
+          "american_odds": 112,
+          "implied_probability": 0.4716981132075472,
+          "date": "2026-10-15",
+          "source": "Capturas de Draftea aportadas por el usuario",
+          "live_verified": false,
+          "note": "Probabilidad implícita del precio, con margen de la casa; no es una probabilidad validada del modelo ni una apuesta segura."
+        },
+        "forecast_reason": "Previo y registro automático disponibles",
+        "forecast_markets": [
+          "result",
+          "goals",
+          "corners",
+          "yellows"
+        ],
+        "automatic_count": 4
+      },
+      {
+        "id": "soccer:401900904",
+        "provider_id": "401900904",
+        "sport": "soccer",
+        "sport_name": "Fútbol",
+        "competition": {
+          "name": "Saudi Pro League",
+          "slug": "ksa.1"
+        },
+        "kickoff": "2026-10-15T15:15Z",
+        "status": "SCHEDULED",
+        "home": "Al Hazem",
+        "away": "Al Fateh",
+        "match_id": 2678,
+        "forecast_available": true,
+        "source_url": "https://www.espn.com/soccer/match/_/gameId/401900904/al-fateh-al-hazem",
+        "draftea_verified": false,
+        "draftea_reference": {
+          "pick": "Al Hazm",
+          "american_odds": 147,
+          "implied_probability": 0.4048582995951417,
+          "date": "2026-10-15",
+          "source": "Capturas de Draftea aportadas por el usuario",
+          "live_verified": false,
+          "note": "Probabilidad implícita del precio, con margen de la casa; no es una probabilidad validada del modelo ni una apuesta segura."
+        },
+        "forecast_reason": "Previo y registro automático disponibles",
+        "forecast_markets": [
+          "result",
+          "goals",
+          "corners",
+          "yellows"
+        ],
+        "automatic_count": 4
+      },
+      {
+        "id": "soccer:401915566",
+        "provider_id": "401915566",
+        "sport": "soccer",
+        "sport_name": "Fútbol",
+        "competition": {
+          "name": "UEFA Europa League",
+          "slug": "uefa.europa"
+        },
+        "kickoff": "2026-10-15T16:45Z",
+        "status": "SCHEDULED",
+        "home": "Lyon",
+        "away": "Crystal Palace",
+        "match_id": 2606,
+        "forecast_available": true,
+        "source_url": "https://www.espn.com/soccer/match/_/gameId/401915566/crystal-palace-lyon",
+        "draftea_verified": false,
+        "draftea_reference": {
+          "pick": "Empate",
+          "american_odds": 264,
+          "implied_probability": 0.27472527472527475,
+          "date": "2026-10-15",
+          "source": "Capturas de Draftea aportadas por el usuario",
+          "live_verified": false,
+          "note": "Probabilidad implícita del precio, con margen de la casa; no es una probabilidad validada del modelo ni una apuesta segura."
+        },
+        "forecast_reason": "Previo y registro automático disponibles",
+        "forecast_markets": [
+          "result",
+          "goals",
+          "corners",
+          "yellows"
+        ],
+        "automatic_count": 4
+      },
+      {
+        "id": "soccer:401915567",
+        "provider_id": "401915567",
+        "sport": "soccer",
+        "sport_name": "Fútbol",
+        "competition": {
+          "name": "UEFA Europa League",
+          "slug": "uefa.europa"
+        },
+        "kickoff": "2026-10-15T16:45Z",
+        "status": "SCHEDULED",
+        "home": "Sparta Prague",
+        "away": "Lillestrom",
+        "match_id": 2609,
+        "forecast_available": true,
+        "source_url": "https://www.espn.com/soccer/match/_/gameId/401915567/lillestrom-sparta-prague",
+        "draftea_verified": false,
+        "draftea_reference": {
+          "pick": "Lillestrom",
+          "american_odds": 694,
+          "implied_probability": 0.12594458438287154,
+          "date": "2026-10-15",
+          "source": "Capturas de Draftea aportadas por el usuario",
+          "live_verified": false,
+          "note": "Probabilidad implícita del precio, con margen de la casa; no es una probabilidad validada del modelo ni una apuesta segura."
+        },
+        "forecast_reason": "Previo y registro automático disponibles",
+        "forecast_markets": [
+          "result",
+          "goals",
+          "corners",
+          "yellows"
+        ],
+        "automatic_count": 4
+      },
+      {
+        "id": "soccer:401915568",
+        "provider_id": "401915568",
+        "sport": "soccer",
+        "sport_name": "Fútbol",
+        "competition": {
+          "name": "UEFA Europa League",
+          "slug": "uefa.europa"
+        },
+        "kickoff": "2026-10-15T16:45Z",
+        "status": "SCHEDULED",
+        "home": "RB Salzburg",
+        "away": "AC Milan",
+        "match_id": 2608,
+        "forecast_available": true,
+        "source_url": "https://www.espn.com/soccer/match/_/gameId/401915568/ac-milan-rb-salzburg",
+        "draftea_verified": false,
+        "draftea_reference": {
+          "pick": "Milan",
+          "american_odds": 100,
+          "implied_probability": 0.5,
+          "date": "2026-10-15",
+          "source": "Capturas de Draftea aportadas por el usuario",
+          "live_verified": false,
+          "note": "Probabilidad implícita del precio, con margen de la casa; no es una probabilidad validada del modelo ni una apuesta segura."
+        },
+        "forecast_reason": "Previo y registro automático disponibles",
+        "forecast_markets": [
+          "result",
+          "goals",
+          "corners",
+          "yellows"
+        ],
+        "automatic_count": 4
+      },
+      {
+        "id": "soccer:401915573",
+        "provider_id": "401915573",
+        "sport": "soccer",
+        "sport_name": "Fútbol",
+        "competition": {
+          "name": "UEFA Europa League",
+          "slug": "uefa.europa"
+        },
+        "kickoff": "2026-10-15T16:45Z",
+        "status": "SCHEDULED",
+        "home": "AZ Alkmaar",
+        "away": "Hapoel Be'er",
+        "match_id": 2604,
+        "forecast_available": true,
+        "source_url": "https://www.espn.com/soccer/match/_/gameId/401915573/hapoel-beer-az-alkmaar",
+        "draftea_verified": false,
+        "draftea_reference": {
+          "pick": "Hapoel Be'er Sheva",
+          "american_odds": 773,
+          "implied_probability": 0.1145475372279496,
+          "date": "2026-10-15",
+          "source": "Capturas de Draftea aportadas por el usuario",
+          "live_verified": false,
+          "note": "Probabilidad implícita del precio, con margen de la casa; no es una probabilidad validada del modelo ni una apuesta segura."
+        },
+        "forecast_reason": "Previo y registro automático disponibles",
+        "forecast_markets": [
+          "result",
+          "goals",
+          "corners",
+          "yellows"
+        ],
+        "automatic_count": 4
+      },
+      {
+        "id": "soccer:401915574",
+        "provider_id": "401915574",
+        "sport": "soccer",
+        "sport_name": "Fútbol",
+        "competition": {
+          "name": "UEFA Europa League",
+          "slug": "uefa.europa"
+        },
+        "kickoff": "2026-10-15T16:45Z",
+        "status": "SCHEDULED",
+        "home": "Union St.-Gilloise",
+        "away": "Real Sociedad",
+        "match_id": 2611,
+        "forecast_available": true,
+        "source_url": "https://www.espn.com/soccer/match/_/gameId/401915574/real-sociedad-union-st-gilloise",
+        "draftea_verified": false,
+        "draftea_reference": {
+          "pick": "Real Sociedad",
+          "american_odds": 161,
+          "implied_probability": 0.3831417624521073,
+          "date": "2026-10-15",
+          "source": "Capturas de Draftea aportadas por el usuario",
+          "live_verified": false,
+          "note": "Probabilidad implícita del precio, con margen de la casa; no es una probabilidad validada del modelo ni una apuesta segura."
+        },
+        "forecast_reason": "Previo y registro automático disponibles",
+        "forecast_markets": [
+          "result",
+          "goals",
+          "corners",
+          "yellows"
+        ],
+        "automatic_count": 4
+      },
+      {
+        "id": "soccer:401915575",
+        "provider_id": "401915575",
+        "sport": "soccer",
+        "sport_name": "Fútbol",
+        "competition": {
+          "name": "UEFA Europa League",
+          "slug": "uefa.europa"
+        },
+        "kickoff": "2026-10-15T16:45Z",
+        "status": "SCHEDULED",
+        "home": "Torreense",
+        "away": "Sunderland",
+        "match_id": 2610,
+        "forecast_available": true,
+        "source_url": "https://www.espn.com/soccer/match/_/gameId/401915575/sunderland-torreense",
+        "draftea_verified": false,
+        "draftea_reference": {
+          "pick": "Sunderland",
+          "american_odds": -303,
+          "implied_probability": 0.7518610421836228,
+          "date": "2026-10-15",
+          "source": "Capturas de Draftea aportadas por el usuario",
+          "live_verified": false,
+          "note": "Probabilidad implícita del precio, con margen de la casa; no es una probabilidad validada del modelo ni una apuesta segura."
+        },
+        "forecast_reason": "Previo y registro automático disponibles",
+        "forecast_markets": [
+          "result",
+          "goals",
+          "corners",
+          "yellows"
+        ],
+        "automatic_count": 4
+      },
+      {
+        "id": "soccer:401915576",
+        "provider_id": "401915576",
+        "sport": "soccer",
+        "sport_name": "Fútbol",
+        "competition": {
+          "name": "UEFA Europa League",
+          "slug": "uefa.europa"
+        },
+        "kickoff": "2026-10-15T16:45Z",
+        "status": "SCHEDULED",
+        "home": "Lech Poznan",
+        "away": "Bayer Leverkusen",
+        "match_id": 2605,
+        "forecast_available": true,
+        "source_url": "https://www.espn.com/soccer/match/_/gameId/401915576/bayer-leverkusen-lech-poznan",
+        "draftea_verified": false,
+        "draftea_reference": {
+          "pick": "Bayer Leverkusen",
+          "american_odds": -175,
+          "implied_probability": 0.6363636363636364,
+          "date": "2026-10-15",
+          "source": "Capturas de Draftea aportadas por el usuario",
+          "live_verified": false,
+          "note": "Probabilidad implícita del precio, con margen de la casa; no es una probabilidad validada del modelo ni una apuesta segura."
+        },
+        "forecast_reason": "Previo y registro automático disponibles",
+        "forecast_markets": [
+          "result",
+          "goals",
+          "corners",
+          "yellows"
+        ],
+        "automatic_count": 4
+      },
+      {
+        "id": "soccer:401915577",
+        "provider_id": "401915577",
+        "sport": "soccer",
+        "sport_name": "Fútbol",
+        "competition": {
+          "name": "UEFA Europa League",
+          "slug": "uefa.europa"
+        },
+        "kickoff": "2026-10-15T16:45Z",
+        "status": "SCHEDULED",
+        "home": "NK Celje",
+        "away": "Omonia Nicosia",
+        "match_id": 2607,
+        "forecast_available": true,
+        "source_url": "https://www.espn.com/soccer/match/_/gameId/401915577/omonia-nicosia-nk-celje",
+        "draftea_verified": false,
+        "draftea_reference": {
+          "pick": "Omonia Nicosia",
+          "american_odds": 151,
+          "implied_probability": 0.398406374501992,
+          "date": "2026-10-15",
+          "source": "Capturas de Draftea aportadas por el usuario",
+          "live_verified": false,
+          "note": "Probabilidad implícita del precio, con margen de la casa; no es una probabilidad validada del modelo ni una apuesta segura."
+        },
+        "forecast_reason": "Previo y registro automático disponibles",
+        "forecast_markets": [
+          "result",
+          "goals",
+          "corners",
+          "yellows"
+        ],
+        "automatic_count": 4
+      },
+      {
+        "id": "soccer:401915747",
+        "provider_id": "401915747",
+        "sport": "soccer",
+        "sport_name": "Fútbol",
+        "competition": {
+          "name": "UEFA Conference League",
+          "slug": "uefa.europa.conf"
+        },
+        "kickoff": "2026-10-15T16:45Z",
+        "status": "SCHEDULED",
+        "home": "Riga FC",
+        "away": "Kairat Almaty",
+        "match_id": 2649,
+        "forecast_available": true,
+        "source_url": "https://www.espn.com/soccer/match/_/gameId/401915747/kairat-almaty-riga-fc",
+        "draftea_verified": false,
+        "draftea_reference": {
+          "pick": "Kairat",
+          "american_odds": 290,
+          "implied_probability": 0.2564102564102564,
+          "date": "2026-10-15",
+          "source": "Capturas de Draftea aportadas por el usuario",
+          "live_verified": false,
+          "note": "Probabilidad implícita del precio, con margen de la casa; no es una probabilidad validada del modelo ni una apuesta segura."
+        },
+        "forecast_reason": "Previo y registro automático disponibles",
+        "forecast_markets": [
+          "result",
+          "goals",
+          "corners",
+          "yellows"
+        ],
+        "automatic_count": 4
+      },
+      {
+        "id": "soccer:401915748",
+        "provider_id": "401915748",
+        "sport": "soccer",
+        "sport_name": "Fútbol",
+        "competition": {
+          "name": "UEFA Conference League",
+          "slug": "uefa.europa.conf"
+        },
+        "kickoff": "2026-10-15T16:45Z",
+        "status": "SCHEDULED",
+        "home": "FC Lugano",
+        "away": "Red Star Belgrade",
+        "match_id": 2643,
+        "forecast_available": true,
+        "source_url": "https://www.espn.com/soccer/match/_/gameId/401915748/red-star-belgrade-fc-lugano",
+        "draftea_verified": false,
+        "draftea_reference": {
+          "pick": "Crvena Zvezda",
+          "american_odds": 174,
+          "implied_probability": 0.36496350364963503,
+          "date": "2026-10-15",
+          "source": "Capturas de Draftea aportadas por el usuario",
+          "live_verified": false,
+          "note": "Probabilidad implícita del precio, con margen de la casa; no es una probabilidad validada del modelo ni una apuesta segura."
+        },
+        "forecast_reason": "Previo y registro automático disponibles",
+        "forecast_markets": [
+          "result",
+          "goals",
+          "corners",
+          "yellows"
+        ],
+        "automatic_count": 4
+      },
+      {
+        "id": "soccer:401915854",
+        "provider_id": "401915854",
+        "sport": "soccer",
+        "sport_name": "Fútbol",
+        "competition": {
+          "name": "UEFA Conference League",
+          "slug": "uefa.europa.conf"
+        },
+        "kickoff": "2026-10-15T16:45Z",
+        "status": "SCHEDULED",
+        "home": "CSU Craiova",
+        "away": "Getafe",
+        "match_id": 2641,
+        "forecast_available": true,
+        "source_url": "https://www.espn.com/soccer/match/_/gameId/401915854/getafe-csu-craiova",
+        "draftea_verified": false,
+        "draftea_reference": {
+          "pick": "Empate",
+          "american_odds": 216,
+          "implied_probability": 0.31645569620253167,
+          "date": "2026-10-15",
+          "source": "Capturas de Draftea aportadas por el usuario",
+          "live_verified": false,
+          "note": "Probabilidad implícita del precio, con margen de la casa; no es una probabilidad validada del modelo ni una apuesta segura."
+        },
+        "forecast_reason": "Previo y registro automático disponibles",
+        "forecast_markets": [
+          "result",
+          "goals",
+          "corners",
+          "yellows"
+        ],
+        "automatic_count": 4
+      },
+      {
+        "id": "soccer:401915855",
+        "provider_id": "401915855",
+        "sport": "soccer",
+        "sport_name": "Fútbol",
+        "competition": {
+          "name": "UEFA Conference League",
+          "slug": "uefa.europa.conf"
+        },
+        "kickoff": "2026-10-15T16:45Z",
+        "status": "SCHEDULED",
+        "home": "CSKA Sofia",
+        "away": "AS Monaco",
+        "match_id": 2640,
+        "forecast_available": true,
+        "source_url": "https://www.espn.com/soccer/match/_/gameId/401915855/as-monaco-cska-sofia",
+        "draftea_verified": false,
+        "draftea_reference": {
+          "pick": "Monaco",
+          "american_odds": -204,
+          "implied_probability": 0.6710526315789473,
+          "date": "2026-10-15",
+          "source": "Capturas de Draftea aportadas por el usuario",
+          "live_verified": false,
+          "note": "Probabilidad implícita del precio, con margen de la casa; no es una probabilidad validada del modelo ni una apuesta segura."
+        },
+        "forecast_reason": "Previo y registro automático disponibles",
+        "forecast_markets": [
+          "result",
+          "goals",
+          "corners",
+          "yellows"
+        ],
+        "automatic_count": 4
+      },
+      {
+        "id": "soccer:401915856",
+        "provider_id": "401915856",
+        "sport": "soccer",
+        "sport_name": "Fútbol",
+        "competition": {
+          "name": "UEFA Conference League",
+          "slug": "uefa.europa.conf"
+        },
+        "kickoff": "2026-10-15T16:45Z",
+        "status": "SCHEDULED",
+        "home": "Panathinaikos",
+        "away": "Borac Banja Luka",
+        "match_id": 2648,
+        "forecast_available": true,
+        "source_url": "https://www.espn.com/soccer/match/_/gameId/401915856/borac-banja-luka-panathinaikos",
+        "draftea_verified": false,
+        "draftea_reference": {
+          "pick": "Borac Banja Luka",
+          "american_odds": 1176,
+          "implied_probability": 0.07836990595611286,
+          "date": "2026-10-15",
+          "source": "Capturas de Draftea aportadas por el usuario",
+          "live_verified": false,
+          "note": "Probabilidad implícita del precio, con margen de la casa; no es una probabilidad validada del modelo ni una apuesta segura."
+        },
+        "forecast_reason": "Previo y registro automático disponibles",
+        "forecast_markets": [
+          "result",
+          "goals",
+          "corners",
+          "yellows"
+        ],
+        "automatic_count": 4
+      },
+      {
+        "id": "soccer:401915857",
+        "provider_id": "401915857",
+        "sport": "soccer",
+        "sport_name": "Fútbol",
+        "competition": {
+          "name": "UEFA Conference League",
+          "slug": "uefa.europa.conf"
+        },
+        "kickoff": "2026-10-15T16:45Z",
+        "status": "SCHEDULED",
+        "home": "Mjällby AIF",
+        "away": "Inter D'Escaldes",
+        "match_id": 2647,
+        "forecast_available": true,
+        "source_url": "https://www.espn.com/soccer/match/_/gameId/401915857/inter-descaldes-mjallby-aif",
+        "draftea_verified": false,
+        "draftea_reference": {
+          "pick": "Empate",
+          "american_odds": 436,
+          "implied_probability": 0.1865671641791045,
+          "date": "2026-10-15",
+          "source": "Capturas de Draftea aportadas por el usuario",
+          "live_verified": false,
+          "note": "Probabilidad implícita del precio, con margen de la casa; no es una probabilidad validada del modelo ni una apuesta segura."
+        },
+        "forecast_reason": "Previo y registro automático disponibles",
+        "forecast_markets": [
+          "result",
+          "goals",
+          "corners",
+          "yellows"
+        ],
+        "automatic_count": 4
+      },
+      {
+        "id": "soccer:401915858",
+        "provider_id": "401915858",
+        "sport": "soccer",
+        "sport_name": "Fútbol",
+        "competition": {
+          "name": "UEFA Conference League",
+          "slug": "uefa.europa.conf"
+        },
+        "kickoff": "2026-10-15T16:45Z",
+        "status": "SCHEDULED",
+        "home": "KuPS Kuopio",
+        "away": "Trabzonspor",
+        "match_id": 2646,
+        "forecast_available": true,
+        "source_url": "https://www.espn.com/soccer/match/_/gameId/401915858/trabzonspor-kups-kuopio",
+        "draftea_verified": false,
+        "draftea_reference": {
+          "pick": "KuPS",
+          "american_odds": 499,
+          "implied_probability": 0.1669449081803005,
+          "date": "2026-10-15",
+          "source": "Capturas de Draftea aportadas por el usuario",
+          "live_verified": false,
+          "note": "Probabilidad implícita del precio, con margen de la casa; no es una probabilidad validada del modelo ni una apuesta segura."
+        },
+        "forecast_reason": "Previo y registro automático disponibles",
+        "forecast_markets": [
+          "result",
+          "goals",
+          "corners",
+          "yellows"
+        ],
+        "automatic_count": 4
+      },
+      {
+        "id": "soccer:401915859",
+        "provider_id": "401915859",
+        "sport": "soccer",
+        "sport_name": "Fútbol",
+        "competition": {
+          "name": "UEFA Conference League",
+          "slug": "uefa.europa.conf"
+        },
+        "kickoff": "2026-10-15T16:45Z",
+        "status": "SCHEDULED",
+        "home": "Egnatia",
+        "away": "FC Midtjylland",
+        "match_id": 2642,
+        "forecast_available": true,
+        "source_url": "https://www.espn.com/soccer/match/_/gameId/401915859/fc-midtjylland-egnatia",
+        "draftea_verified": false,
+        "draftea_reference": {
+          "pick": "Midtjylland",
+          "american_odds": -182,
+          "implied_probability": 0.6453900709219859,
+          "date": "2026-10-15",
+          "source": "Capturas de Draftea aportadas por el usuario",
+          "live_verified": false,
+          "note": "Probabilidad implícita del precio, con margen de la casa; no es una probabilidad validada del modelo ni una apuesta segura."
+        },
+        "forecast_reason": "Previo y registro automático disponibles",
+        "forecast_markets": [
+          "result",
+          "goals",
+          "corners",
+          "yellows"
+        ],
+        "automatic_count": 4
+      },
+      {
+        "id": "soccer:401915860",
+        "provider_id": "401915860",
+        "sport": "soccer",
+        "sport_name": "Fútbol",
+        "competition": {
+          "name": "UEFA Conference League",
+          "slug": "uefa.europa.conf"
+        },
+        "kickoff": "2026-10-15T16:45Z",
+        "status": "SCHEDULED",
+        "home": "KAA Gent",
+        "away": "AGF",
+        "match_id": 2645,
+        "forecast_available": true,
+        "source_url": "https://www.espn.com/soccer/match/_/gameId/401915860/agf-kaa-gent",
+        "draftea_verified": false,
+        "draftea_reference": {
+          "pick": "AGF Aarhus",
+          "american_odds": 380,
+          "implied_probability": 0.20833333333333334,
+          "date": "2026-10-15",
+          "source": "Capturas de Draftea aportadas por el usuario",
+          "live_verified": false,
+          "note": "Probabilidad implícita del precio, con margen de la casa; no es una probabilidad validada del modelo ni una apuesta segura."
+        },
+        "forecast_reason": "Previo y registro automático disponibles",
+        "forecast_markets": [
+          "result",
+          "goals",
+          "corners",
+          "yellows"
+        ],
+        "automatic_count": 4
+      },
+      {
+        "id": "soccer:401915861",
+        "provider_id": "401915861",
+        "sport": "soccer",
+        "sport_name": "Fútbol",
+        "competition": {
+          "name": "UEFA Conference League",
+          "slug": "uefa.europa.conf"
+        },
+        "kickoff": "2026-10-15T16:45Z",
+        "status": "SCHEDULED",
+        "home": "Hajduk Split",
+        "away": "Ajax Amsterdam",
+        "match_id": 2644,
+        "forecast_available": true,
+        "source_url": "https://www.espn.com/soccer/match/_/gameId/401915861/ajax-amsterdam-hajduk-split",
+        "draftea_verified": false,
+        "draftea_reference": {
+          "pick": "Ajax",
+          "american_odds": -159,
+          "implied_probability": 0.6138996138996139,
+          "date": "2026-10-15",
+          "source": "Capturas de Draftea aportadas por el usuario",
+          "live_verified": false,
+          "note": "Probabilidad implícita del precio, con margen de la casa; no es una probabilidad validada del modelo ni una apuesta segura."
+        },
+        "forecast_reason": "Previo y registro automático disponibles",
+        "forecast_markets": [
+          "result",
+          "goals",
+          "corners",
+          "yellows"
+        ],
+        "automatic_count": 4
+      },
+      {
+        "id": "soccer:401915549",
+        "provider_id": "401915549",
+        "sport": "soccer",
+        "sport_name": "Fútbol",
+        "competition": {
+          "name": "UEFA Europa League",
+          "slug": "uefa.europa"
+        },
+        "kickoff": "2026-10-15T19:00Z",
+        "status": "SCHEDULED",
+        "home": "Dinamo Zagreb",
+        "away": "Anderlecht",
+        "match_id": 2615,
+        "forecast_available": true,
+        "source_url": "https://www.espn.com/soccer/match/_/gameId/401915549/anderlecht-dinamo-zagreb",
+        "draftea_verified": false,
+        "draftea_reference": {
+          "pick": "Anderlecht",
+          "american_odds": 257,
+          "implied_probability": 0.2801120448179272,
+          "date": "2026-10-15",
+          "source": "Capturas de Draftea aportadas por el usuario",
+          "live_verified": false,
+          "note": "Probabilidad implícita del precio, con margen de la casa; no es una probabilidad validada del modelo ni una apuesta segura."
+        },
+        "forecast_reason": "Previo y registro automático disponibles",
+        "forecast_markets": [
+          "result",
+          "goals",
+          "corners",
+          "yellows"
+        ],
+        "automatic_count": 4
+      },
+      {
+        "id": "soccer:401915550",
+        "provider_id": "401915550",
+        "sport": "soccer",
+        "sport_name": "Fútbol",
+        "competition": {
+          "name": "UEFA Europa League",
+          "slug": "uefa.europa"
+        },
+        "kickoff": "2026-10-15T19:00Z",
+        "status": "SCHEDULED",
+        "home": "Marseille",
+        "away": "Olympiacos",
+        "match_id": 2618,
+        "forecast_available": true,
+        "source_url": "https://www.espn.com/soccer/match/_/gameId/401915550/olympiacos-marseille",
+        "draftea_verified": false,
+        "draftea_reference": {
+          "pick": "Marseille",
+          "american_odds": 132,
+          "implied_probability": 0.43103448275862066,
+          "date": "2026-10-15",
+          "source": "Capturas de Draftea aportadas por el usuario",
+          "live_verified": false,
+          "note": "Probabilidad implícita del precio, con margen de la casa; no es una probabilidad validada del modelo ni una apuesta segura."
+        },
+        "forecast_reason": "Previo y registro automático disponibles",
+        "forecast_markets": [
+          "result",
+          "goals",
+          "corners",
+          "yellows"
+        ],
+        "automatic_count": 4
+      },
+      {
+        "id": "soccer:401915560",
+        "provider_id": "401915560",
+        "sport": "soccer",
+        "sport_name": "Fútbol",
+        "competition": {
+          "name": "UEFA Europa League",
+          "slug": "uefa.europa"
+        },
+        "kickoff": "2026-10-15T19:00Z",
+        "status": "SCHEDULED",
+        "home": "Celta Vigo",
+        "away": "Juventus",
+        "match_id": 2614,
+        "forecast_available": true,
+        "source_url": "https://www.espn.com/soccer/match/_/gameId/401915560/juventus-celta-vigo",
+        "draftea_verified": false,
+        "draftea_reference": {
+          "pick": "Juventus",
+          "american_odds": 120,
+          "implied_probability": 0.45454545454545453,
+          "date": "2026-10-15",
+          "source": "Capturas de Draftea aportadas por el usuario",
+          "live_verified": false,
+          "note": "Probabilidad implícita del precio, con margen de la casa; no es una probabilidad validada del modelo ni una apuesta segura."
+        },
+        "forecast_reason": "Previo y registro automático disponibles",
+        "forecast_markets": [
+          "result",
+          "goals",
+          "corners",
+          "yellows"
+        ],
+        "automatic_count": 4
+      },
+      {
+        "id": "soccer:401915561",
+        "provider_id": "401915561",
+        "sport": "soccer",
+        "sport_name": "Fútbol",
+        "competition": {
+          "name": "UEFA Europa League",
+          "slug": "uefa.europa"
+        },
+        "kickoff": "2026-10-15T19:00Z",
+        "status": "SCHEDULED",
+        "home": "Jagiellonia Bialystok",
+        "away": "Ararat-Armenia",
+        "match_id": 2617,
+        "forecast_available": true,
+        "source_url": "https://www.espn.com/soccer/match/_/gameId/401915561/ararat-armenia-jagiellonia-bialystok",
+        "draftea_verified": false,
+        "draftea_reference": {
+          "pick": "Ararat-Armenia",
+          "american_odds": 608,
+          "implied_probability": 0.14124293785310735,
+          "date": "2026-10-15",
+          "source": "Capturas de Draftea aportadas por el usuario",
+          "live_verified": false,
+          "note": "Probabilidad implícita del precio, con margen de la casa; no es una probabilidad validada del modelo ni una apuesta segura."
+        },
+        "forecast_reason": "Previo y registro automático disponibles",
+        "forecast_markets": [
+          "result",
+          "goals",
+          "corners",
+          "yellows"
+        ],
+        "automatic_count": 4
+      },
+      {
+        "id": "soccer:401915562",
+        "provider_id": "401915562",
+        "sport": "soccer",
+        "sport_name": "Fútbol",
+        "competition": {
+          "name": "UEFA Europa League",
+          "slug": "uefa.europa"
+        },
+        "kickoff": "2026-10-15T19:00Z",
+        "status": "SCHEDULED",
+        "home": "Benfica",
+        "away": "Celtic",
+        "match_id": 2613,
+        "forecast_available": true,
+        "source_url": "https://www.espn.com/soccer/match/_/gameId/401915562/celtic-benfica",
+        "draftea_verified": false,
+        "draftea_reference": {
+          "pick": "Celtic",
+          "american_odds": 909,
+          "implied_probability": 0.09910802775024777,
+          "date": "2026-10-15",
+          "source": "Capturas de Draftea aportadas por el usuario",
+          "live_verified": false,
+          "note": "Probabilidad implícita del precio, con margen de la casa; no es una probabilidad validada del modelo ni una apuesta segura."
+        },
+        "forecast_reason": "Previo y registro automático disponibles",
+        "forecast_markets": [
+          "result",
+          "goals",
+          "corners",
+          "yellows"
+        ],
+        "automatic_count": 4
+      },
+      {
+        "id": "soccer:401915563",
+        "provider_id": "401915563",
+        "sport": "soccer",
+        "sport_name": "Fútbol",
+        "competition": {
+          "name": "UEFA Europa League",
+          "slug": "uefa.europa"
+        },
+        "kickoff": "2026-10-15T19:00Z",
+        "status": "SCHEDULED",
+        "home": "TSG Hoffenheim",
+        "away": "Besiktas",
+        "match_id": 2621,
+        "forecast_available": true,
+        "source_url": "https://www.espn.com/soccer/match/_/gameId/401915563/besiktas-tsg-hoffenheim",
+        "draftea_verified": false,
+        "draftea_reference": {
+          "pick": "Besiktas",
+          "american_odds": 241,
+          "implied_probability": 0.2932551319648094,
+          "date": "2026-10-15",
+          "source": "Capturas de Draftea aportadas por el usuario",
+          "live_verified": false,
+          "note": "Probabilidad implícita del precio, con margen de la casa; no es una probabilidad validada del modelo ni una apuesta segura."
+        },
+        "forecast_reason": "Previo y registro automático disponibles",
+        "forecast_markets": [
+          "result",
+          "goals",
+          "corners",
+          "yellows"
+        ],
+        "automatic_count": 4
+      },
+      {
+        "id": "soccer:401915564",
+        "provider_id": "401915564",
+        "sport": "soccer",
+        "sport_name": "Fútbol",
+        "competition": {
+          "name": "UEFA Europa League",
+          "slug": "uefa.europa"
+        },
+        "kickoff": "2026-10-15T19:00Z",
+        "status": "SCHEDULED",
+        "home": "Ferencvaros",
+        "away": "Viktoria Plzen",
+        "match_id": 2616,
+        "forecast_available": true,
+        "source_url": "https://www.espn.com/soccer/match/_/gameId/401915564/viktoria-plzen-ferencvaros",
+        "draftea_verified": false,
+        "draftea_reference": {
+          "pick": "Viktoria Plzen",
+          "american_odds": 256,
+          "implied_probability": 0.2808988764044944,
+          "date": "2026-10-15",
+          "source": "Capturas de Draftea aportadas por el usuario",
+          "live_verified": false,
+          "note": "Probabilidad implícita del precio, con margen de la casa; no es una probabilidad validada del modelo ni una apuesta segura."
+        },
+        "forecast_reason": "Previo y registro automático disponibles",
+        "forecast_markets": [
+          "result",
+          "goals",
+          "corners",
+          "yellows"
+        ],
+        "automatic_count": 4
+      },
+      {
+        "id": "soccer:401915565",
+        "provider_id": "401915565",
+        "sport": "soccer",
+        "sport_name": "Fútbol",
+        "competition": {
+          "name": "UEFA Europa League",
+          "slug": "uefa.europa"
+        },
+        "kickoff": "2026-10-15T19:00Z",
+        "status": "SCHEDULED",
+        "home": "NEC Nijmegen",
+        "away": "Levski Sofia",
+        "match_id": 2619,
+        "forecast_available": true,
+        "source_url": "https://www.espn.com/soccer/match/_/gameId/401915565/levski-sofia-nec-nijmegen",
+        "draftea_verified": false,
+        "draftea_reference": {
+          "pick": "Levski Sofia",
+          "american_odds": 286,
+          "implied_probability": 0.25906735751295334,
+          "date": "2026-10-15",
+          "source": "Capturas de Draftea aportadas por el usuario",
+          "live_verified": false,
+          "note": "Probabilidad implícita del precio, con margen de la casa; no es una probabilidad validada del modelo ni una apuesta segura."
+        },
+        "forecast_reason": "Previo y registro automático disponibles",
+        "forecast_markets": [
+          "result",
+          "goals",
+          "corners",
+          "yellows"
+        ],
+        "automatic_count": 4
+      },
+      {
+        "id": "soccer:401915571",
+        "provider_id": "401915571",
+        "sport": "soccer",
+        "sport_name": "Fútbol",
+        "competition": {
+          "name": "UEFA Europa League",
+          "slug": "uefa.europa"
+        },
+        "kickoff": "2026-10-15T19:00Z",
+        "status": "SCHEDULED",
+        "home": "AFC Bournemouth",
+        "away": "SK Sturm Graz",
+        "match_id": 2612,
+        "forecast_available": true,
+        "source_url": "https://www.espn.com/soccer/match/_/gameId/401915571/sk-sturm-graz-afc-bournemouth",
+        "draftea_verified": false,
+        "draftea_reference": {
+          "pick": "Sturm Graz",
+          "american_odds": 1082,
+          "implied_probability": 0.08460236886632826,
+          "date": "2026-10-15",
+          "source": "Capturas de Draftea aportadas por el usuario",
+          "live_verified": false,
+          "note": "Probabilidad implícita del precio, con margen de la casa; no es una probabilidad validada del modelo ni una apuesta segura."
+        },
+        "forecast_reason": "Previo y registro automático disponibles",
+        "forecast_markets": [
+          "result",
+          "goals",
+          "corners",
+          "yellows"
+        ],
+        "automatic_count": 4
+      },
+      {
+        "id": "soccer:401915572",
+        "provider_id": "401915572",
+        "sport": "soccer",
+        "sport_name": "Fútbol",
+        "competition": {
+          "name": "UEFA Europa League",
+          "slug": "uefa.europa"
+        },
+        "kickoff": "2026-10-15T19:00Z",
+        "status": "SCHEDULED",
+        "home": "Stade Rennais",
+        "away": "OFI Crete",
+        "match_id": 2620,
+        "forecast_available": true,
+        "source_url": "https://www.espn.com/soccer/match/_/gameId/401915572/ofi-crete-stade-rennais",
+        "draftea_verified": false,
+        "draftea_reference": {
+          "pick": "Rennes",
+          "american_odds": -476,
+          "implied_probability": 0.8263888888888888,
+          "date": "2026-10-15",
+          "source": "Capturas de Draftea aportadas por el usuario",
+          "live_verified": false,
+          "note": "Probabilidad implícita del precio, con margen de la casa; no es una probabilidad validada del modelo ni una apuesta segura."
+        },
+        "forecast_reason": "Previo y registro automático disponibles",
+        "forecast_markets": [
+          "result",
+          "goals",
+          "corners",
+          "yellows"
+        ],
+        "automatic_count": 4
+      },
+      {
+        "id": "soccer:401915746",
+        "provider_id": "401915746",
+        "sport": "soccer",
+        "sport_name": "Fútbol",
+        "competition": {
+          "name": "UEFA Conference League",
+          "slug": "uefa.europa.conf"
+        },
+        "kickoff": "2026-10-15T19:00Z",
+        "status": "SCHEDULED",
+        "home": "Atalanta",
+        "away": "Pafos",
+        "match_id": 2650,
+        "forecast_available": true,
+        "source_url": "https://www.espn.com/soccer/match/_/gameId/401915746/pafos-atalanta",
+        "draftea_verified": false,
+        "draftea_reference": {
+          "pick": "Atalanta",
+          "american_odds": -294,
+          "implied_probability": 0.7461928934010152,
+          "date": "2026-10-15",
+          "source": "Capturas de Draftea aportadas por el usuario",
+          "live_verified": false,
+          "note": "Probabilidad implícita del precio, con margen de la casa; no es una probabilidad validada del modelo ni una apuesta segura."
+        },
+        "forecast_reason": "Previo y registro automático disponibles",
+        "forecast_markets": [
+          "result",
+          "goals",
+          "corners",
+          "yellows"
+        ],
+        "automatic_count": 4
+      },
+      {
+        "id": "soccer:401915847",
+        "provider_id": "401915847",
+        "sport": "soccer",
+        "sport_name": "Fútbol",
+        "competition": {
+          "name": "UEFA Conference League",
+          "slug": "uefa.europa.conf"
+        },
+        "kickoff": "2026-10-15T19:00Z",
+        "status": "SCHEDULED",
+        "home": "SK Brann",
+        "away": "Lincoln Red Imps",
+        "match_id": 2657,
+        "forecast_available": true,
+        "source_url": "https://www.espn.com/soccer/match/_/gameId/401915847/lincoln-red-imps-sk-brann",
+        "draftea_verified": false,
+        "draftea_reference": {
+          "pick": "Lincoln Red Imps",
+          "american_odds": 1474,
+          "implied_probability": 0.06353240152477764,
+          "date": "2026-10-15",
+          "source": "Capturas de Draftea aportadas por el usuario",
+          "live_verified": false,
+          "note": "Probabilidad implícita del precio, con margen de la casa; no es una probabilidad validada del modelo ni una apuesta segura."
+        },
+        "forecast_reason": "Previo y registro automático disponibles",
+        "forecast_markets": [
+          "result",
+          "goals",
+          "corners",
+          "yellows"
+        ],
+        "automatic_count": 4
+      },
+      {
+        "id": "soccer:401915848",
+        "provider_id": "401915848",
+        "sport": "soccer",
+        "sport_name": "Fútbol",
+        "competition": {
+          "name": "UEFA Conference League",
+          "slug": "uefa.europa.conf"
+        },
+        "kickoff": "2026-10-15T19:00Z",
+        "status": "SCHEDULED",
+        "home": "SC Freiburg",
+        "away": "Jablonec",
+        "match_id": 2655,
+        "forecast_available": true,
+        "source_url": "https://www.espn.com/soccer/match/_/gameId/401915848/jablonec-sc-freiburg",
+        "draftea_verified": false,
+        "draftea_reference": {
+          "pick": "FK Jablonec",
+          "american_odds": 1098,
+          "implied_probability": 0.08347245409015025,
+          "date": "2026-10-15",
+          "source": "Capturas de Draftea aportadas por el usuario",
+          "live_verified": false,
+          "note": "Probabilidad implícita del precio, con margen de la casa; no es una probabilidad validada del modelo ni una apuesta segura."
+        },
+        "forecast_reason": "Previo y registro automático disponibles",
+        "forecast_markets": [
+          "result",
+          "goals",
+          "corners",
+          "yellows"
+        ],
+        "automatic_count": 4
+      },
+      {
+        "id": "soccer:401915849",
+        "provider_id": "401915849",
+        "sport": "soccer",
+        "sport_name": "Fútbol",
+        "competition": {
+          "name": "UEFA Conference League",
+          "slug": "uefa.europa.conf"
+        },
+        "kickoff": "2026-10-15T19:00Z",
+        "status": "SCHEDULED",
+        "home": "Sint-Truidense",
+        "away": "Iberia 1999",
+        "match_id": 2656,
+        "forecast_available": true,
+        "source_url": "https://www.espn.com/soccer/match/_/gameId/401915849/iberia-1999-sint-truidense",
+        "draftea_verified": false,
+        "draftea_reference": {
+          "pick": "Iberia 1999",
+          "american_odds": 962,
+          "implied_probability": 0.09416195856873823,
+          "date": "2026-10-15",
+          "source": "Capturas de Draftea aportadas por el usuario",
+          "live_verified": false,
+          "note": "Probabilidad implícita del precio, con margen de la casa; no es una probabilidad validada del modelo ni una apuesta segura."
+        },
+        "forecast_reason": "Previo y registro automático disponibles",
+        "forecast_markets": [
+          "result",
+          "goals",
+          "corners",
+          "yellows"
+        ],
+        "automatic_count": 4
+      },
+      {
+        "id": "soccer:401915850",
+        "provider_id": "401915850",
+        "sport": "soccer",
+        "sport_name": "Fútbol",
+        "competition": {
+          "name": "UEFA Conference League",
+          "slug": "uefa.europa.conf"
+        },
+        "kickoff": "2026-10-15T19:00Z",
+        "status": "SCHEDULED",
+        "home": "Heart of Midlothian",
+        "away": "FC Nordsjælland",
+        "match_id": 2654,
+        "forecast_available": true,
+        "source_url": "https://www.espn.com/soccer/match/_/gameId/401915850/fc-nordsjælland-heart-of-midlothian",
+        "draftea_verified": false,
+        "draftea_reference": {
+          "pick": "FC Nordsjaelland",
+          "american_odds": 126,
+          "implied_probability": 0.4424778761061947,
+          "date": "2026-10-15",
+          "source": "Capturas de Draftea aportadas por el usuario",
+          "live_verified": false,
+          "note": "Probabilidad implícita del precio, con margen de la casa; no es una probabilidad validada del modelo ni una apuesta segura."
+        },
+        "forecast_reason": "Previo y registro automático disponibles",
+        "forecast_markets": [
+          "result",
+          "goals",
+          "corners",
+          "yellows"
+        ],
+        "automatic_count": 4
+      },
+      {
+        "id": "soccer:401915851",
+        "provider_id": "401915851",
+        "sport": "soccer",
+        "sport_name": "Fútbol",
+        "competition": {
+          "name": "UEFA Conference League",
+          "slug": "uefa.europa.conf"
+        },
+        "kickoff": "2026-10-15T19:00Z",
+        "status": "SCHEDULED",
+        "home": "FC Twente",
+        "away": "FC Thun",
+        "match_id": 2653,
+        "forecast_available": true,
+        "source_url": "https://www.espn.com/soccer/match/_/gameId/401915851/fc-thun-fc-twente",
+        "draftea_verified": false,
+        "draftea_reference": {
+          "pick": "FC Thun",
+          "american_odds": 962,
+          "implied_probability": 0.09416195856873823,
+          "date": "2026-10-15",
+          "source": "Capturas de Draftea aportadas por el usuario",
+          "live_verified": false,
+          "note": "Probabilidad implícita del precio, con margen de la casa; no es una probabilidad validada del modelo ni una apuesta segura."
+        },
+        "forecast_reason": "Previo y registro automático disponibles",
+        "forecast_markets": [
+          "result",
+          "goals",
+          "corners",
+          "yellows"
+        ],
+        "automatic_count": 4
+      },
+      {
+        "id": "soccer:401915852",
+        "provider_id": "401915852",
+        "sport": "soccer",
+        "sport_name": "Fútbol",
+        "competition": {
+          "name": "UEFA Conference League",
+          "slug": "uefa.europa.conf"
+        },
+        "kickoff": "2026-10-15T19:00Z",
+        "status": "SCHEDULED",
+        "home": "F.C. København",
+        "away": "Braga",
+        "match_id": 2652,
+        "forecast_available": true,
+        "source_url": "https://www.espn.com/soccer/match/_/gameId/401915852/braga-fc-københavn",
+        "draftea_verified": false,
+        "draftea_reference": {
+          "pick": "Sporting Braga",
+          "american_odds": 196,
+          "implied_probability": 0.33783783783783783,
+          "date": "2026-10-15",
+          "source": "Capturas de Draftea aportadas por el usuario",
+          "live_verified": false,
+          "note": "Probabilidad implícita del precio, con margen de la casa; no es una probabilidad validada del modelo ni una apuesta segura."
+        },
+        "forecast_reason": "Previo y registro automático disponibles",
+        "forecast_markets": [
+          "result",
+          "goals",
+          "corners",
+          "yellows"
+        ],
+        "automatic_count": 4
+      },
+      {
+        "id": "soccer:401915853",
+        "provider_id": "401915853",
+        "sport": "soccer",
+        "sport_name": "Fútbol",
+        "competition": {
+          "name": "UEFA Conference League",
+          "slug": "uefa.europa.conf"
+        },
+        "kickoff": "2026-10-15T19:00Z",
+        "status": "SCHEDULED",
+        "home": "Brighton & Hove Albion",
+        "away": "Kauno Zalgiris",
+        "match_id": 2651,
+        "forecast_available": true,
+        "source_url": "https://www.espn.com/soccer/match/_/gameId/401915853/kauno-zalgiris-brighton-hove-albion",
+        "draftea_verified": false,
+        "draftea_reference": {
+          "pick": "Kauno Zalgiris",
+          "american_odds": 4029,
+          "implied_probability": 0.024218939210462583,
+          "date": "2026-10-15",
+          "source": "Capturas de Draftea aportadas por el usuario",
+          "live_verified": false,
+          "note": "Probabilidad implícita del precio, con margen de la casa; no es una probabilidad validada del modelo ni una apuesta segura."
+        },
+        "forecast_reason": "Previo y registro automático disponibles",
+        "forecast_markets": [
+          "result",
+          "goals",
+          "corners",
+          "yellows"
+        ],
+        "automatic_count": 4
+      },
+      {
+        "id": "soccer:401841622",
+        "provider_id": "401841622",
+        "sport": "soccer",
+        "sport_name": "Fútbol",
+        "competition": {
+          "name": "Argentine Liga Profesional de Fútbol",
+          "slug": "arg.1"
+        },
+        "kickoff": "2026-10-15T23:00Z",
+        "status": "SCHEDULED",
+        "home": "Huracán",
+        "away": "Gimnasia La Plata",
+        "match_id": 2698,
+        "forecast_available": true,
+        "source_url": "https://www.espn.com/soccer/match/_/gameId/401841622/gimnasia-la-plata-huracan",
+        "draftea_verified": false,
+        "draftea_reference": {
+          "pick": "Huracan",
+          "american_odds": 151,
+          "implied_probability": 0.398406374501992,
+          "date": "2026-10-15",
+          "source": "Capturas de Draftea aportadas por el usuario",
+          "live_verified": false,
+          "note": "Probabilidad implícita del precio, con margen de la casa; no es una probabilidad validada del modelo ni una apuesta segura."
+        },
+        "forecast_reason": "Previo y registro automático disponibles",
+        "forecast_markets": [
+          "result",
+          "goals",
+          "corners",
+          "yellows"
+        ],
+        "automatic_count": 4
+      },
+      {
+        "id": "soccer:401912523",
+        "provider_id": "401912523",
+        "sport": "soccer",
+        "sport_name": "Fútbol",
+        "competition": {
+          "name": "CONMEBOL Libertadores",
+          "slug": "conmebol.libertadores"
+        },
+        "kickoff": "2026-10-16T00:30Z",
+        "status": "SCHEDULED",
+        "home": "Estudiantes de La Plata",
+        "away": "Flamengo",
+        "match_id": 2717,
+        "forecast_available": true,
+        "source_url": "https://www.espn.com/soccer/match/_/gameId/401912523/flamengo-estudiantes-de-la-plata",
+        "draftea_verified": false,
+        "draftea_reference": {
+          "pick": "Estudiantes",
+          "american_odds": 261,
+          "implied_probability": 0.2770083102493075,
+          "date": "2026-10-15",
+          "source": "Capturas de Draftea aportadas por el usuario",
+          "live_verified": false,
+          "note": "Probabilidad implícita del precio, con margen de la casa; no es una probabilidad validada del modelo ni una apuesta segura."
+        },
+        "forecast_reason": "Previo y registro automático disponibles",
+        "forecast_markets": [
+          "result",
+          "goals",
+          "corners",
+          "yellows"
+        ],
+        "automatic_count": 4
+      }
+    ],
+    "total": 41,
+    "errors": [],
+    "draftea": {
+      "verified": false,
+      "url": "https://www.draftea.mx/",
+      "notice": "Se cruzan nombres, rivales y horarios con las capturas aportadas. Los momios son los de esas imágenes, no precios actuales ni probabilidades calibradas del modelo. La disponibilidad actual en Draftea sigue sin verificar."
+    },
+    "coverage": "Fútbol internacional y NBA, NFL, MLB, NHL según la fuente. Calendario ampliado con análisis en competiciones compatibles; los encuentros sin datos suficientes no reciben pronósticos inventados.",
+    "screenshot_matches": 41,
+    "favorites": [
+      {
+        "id": "soccer:401915572",
+        "provider_id": "401915572",
+        "sport": "soccer",
+        "sport_name": "Fútbol",
+        "competition": {
+          "name": "UEFA Europa League",
+          "slug": "uefa.europa"
+        },
+        "kickoff": "2026-10-15T19:00Z",
+        "status": "SCHEDULED",
+        "home": "Stade Rennais",
+        "away": "OFI Crete",
+        "match_id": 2620,
+        "forecast_available": true,
+        "source_url": "https://www.espn.com/soccer/match/_/gameId/401915572/ofi-crete-stade-rennais",
+        "draftea_verified": false,
+        "draftea_reference": {
+          "pick": "Rennes",
+          "american_odds": -476,
+          "implied_probability": 0.8263888888888888,
+          "date": "2026-10-15",
+          "source": "Capturas de Draftea aportadas por el usuario",
+          "live_verified": false,
+          "note": "Probabilidad implícita del precio, con margen de la casa; no es una probabilidad validada del modelo ni una apuesta segura."
+        },
+        "forecast_reason": "Previo y registro automático disponibles",
+        "forecast_markets": [
+          "result",
+          "goals",
+          "corners",
+          "yellows"
+        ],
+        "automatic_count": 4
+      },
+      {
+        "id": "soccer:401915575",
+        "provider_id": "401915575",
+        "sport": "soccer",
+        "sport_name": "Fútbol",
+        "competition": {
+          "name": "UEFA Europa League",
+          "slug": "uefa.europa"
+        },
+        "kickoff": "2026-10-15T16:45Z",
+        "status": "SCHEDULED",
+        "home": "Torreense",
+        "away": "Sunderland",
+        "match_id": 2610,
+        "forecast_available": true,
+        "source_url": "https://www.espn.com/soccer/match/_/gameId/401915575/sunderland-torreense",
+        "draftea_verified": false,
+        "draftea_reference": {
+          "pick": "Sunderland",
+          "american_odds": -303,
+          "implied_probability": 0.7518610421836228,
+          "date": "2026-10-15",
+          "source": "Capturas de Draftea aportadas por el usuario",
+          "live_verified": false,
+          "note": "Probabilidad implícita del precio, con margen de la casa; no es una probabilidad validada del modelo ni una apuesta segura."
+        },
+        "forecast_reason": "Previo y registro automático disponibles",
+        "forecast_markets": [
+          "result",
+          "goals",
+          "corners",
+          "yellows"
+        ],
+        "automatic_count": 4
+      },
+      {
+        "id": "soccer:401915746",
+        "provider_id": "401915746",
+        "sport": "soccer",
+        "sport_name": "Fútbol",
+        "competition": {
+          "name": "UEFA Conference League",
+          "slug": "uefa.europa.conf"
+        },
+        "kickoff": "2026-10-15T19:00Z",
+        "status": "SCHEDULED",
+        "home": "Atalanta",
+        "away": "Pafos",
+        "match_id": 2650,
+        "forecast_available": true,
+        "source_url": "https://www.espn.com/soccer/match/_/gameId/401915746/pafos-atalanta",
+        "draftea_verified": false,
+        "draftea_reference": {
+          "pick": "Atalanta",
+          "american_odds": -294,
+          "implied_probability": 0.7461928934010152,
+          "date": "2026-10-15",
+          "source": "Capturas de Draftea aportadas por el usuario",
+          "live_verified": false,
+          "note": "Probabilidad implícita del precio, con margen de la casa; no es una probabilidad validada del modelo ni una apuesta segura."
+        },
+        "forecast_reason": "Previo y registro automático disponibles",
+        "forecast_markets": [
+          "result",
+          "goals",
+          "corners",
+          "yellows"
+        ],
+        "automatic_count": 4
+      },
+      {
+        "id": "soccer:401915855",
+        "provider_id": "401915855",
+        "sport": "soccer",
+        "sport_name": "Fútbol",
+        "competition": {
+          "name": "UEFA Conference League",
+          "slug": "uefa.europa.conf"
+        },
+        "kickoff": "2026-10-15T16:45Z",
+        "status": "SCHEDULED",
+        "home": "CSKA Sofia",
+        "away": "AS Monaco",
+        "match_id": 2640,
+        "forecast_available": true,
+        "source_url": "https://www.espn.com/soccer/match/_/gameId/401915855/as-monaco-cska-sofia",
+        "draftea_verified": false,
+        "draftea_reference": {
+          "pick": "Monaco",
+          "american_odds": -204,
+          "implied_probability": 0.6710526315789473,
+          "date": "2026-10-15",
+          "source": "Capturas de Draftea aportadas por el usuario",
+          "live_verified": false,
+          "note": "Probabilidad implícita del precio, con margen de la casa; no es una probabilidad validada del modelo ni una apuesta segura."
+        },
+        "forecast_reason": "Previo y registro automático disponibles",
+        "forecast_markets": [
+          "result",
+          "goals",
+          "corners",
+          "yellows"
+        ],
+        "automatic_count": 4
+      },
+      {
+        "id": "soccer:401915859",
+        "provider_id": "401915859",
+        "sport": "soccer",
+        "sport_name": "Fútbol",
+        "competition": {
+          "name": "UEFA Conference League",
+          "slug": "uefa.europa.conf"
+        },
+        "kickoff": "2026-10-15T16:45Z",
+        "status": "SCHEDULED",
+        "home": "Egnatia",
+        "away": "FC Midtjylland",
+        "match_id": 2642,
+        "forecast_available": true,
+        "source_url": "https://www.espn.com/soccer/match/_/gameId/401915859/fc-midtjylland-egnatia",
+        "draftea_verified": false,
+        "draftea_reference": {
+          "pick": "Midtjylland",
+          "american_odds": -182,
+          "implied_probability": 0.6453900709219859,
+          "date": "2026-10-15",
+          "source": "Capturas de Draftea aportadas por el usuario",
+          "live_verified": false,
+          "note": "Probabilidad implícita del precio, con margen de la casa; no es una probabilidad validada del modelo ni una apuesta segura."
+        },
+        "forecast_reason": "Previo y registro automático disponibles",
+        "forecast_markets": [
+          "result",
+          "goals",
+          "corners",
+          "yellows"
+        ],
+        "automatic_count": 4
+      },
+      {
+        "id": "soccer:401915576",
+        "provider_id": "401915576",
+        "sport": "soccer",
+        "sport_name": "Fútbol",
+        "competition": {
+          "name": "UEFA Europa League",
+          "slug": "uefa.europa"
+        },
+        "kickoff": "2026-10-15T16:45Z",
+        "status": "SCHEDULED",
+        "home": "Lech Poznan",
+        "away": "Bayer Leverkusen",
+        "match_id": 2605,
+        "forecast_available": true,
+        "source_url": "https://www.espn.com/soccer/match/_/gameId/401915576/bayer-leverkusen-lech-poznan",
+        "draftea_verified": false,
+        "draftea_reference": {
+          "pick": "Bayer Leverkusen",
+          "american_odds": -175,
+          "implied_probability": 0.6363636363636364,
+          "date": "2026-10-15",
+          "source": "Capturas de Draftea aportadas por el usuario",
+          "live_verified": false,
+          "note": "Probabilidad implícita del precio, con margen de la casa; no es una probabilidad validada del modelo ni una apuesta segura."
+        },
+        "forecast_reason": "Previo y registro automático disponibles",
+        "forecast_markets": [
+          "result",
+          "goals",
+          "corners",
+          "yellows"
+        ],
+        "automatic_count": 4
+      }
+    ]
+  },
+  "example_detail": {
+    "id": 2620,
+    "home_goals": null,
+    "away_goals": null,
+    "live": {
+      "clock": "0'",
+      "time_confirmed": true,
+      "source_url": "https://www.espn.com/soccer/match/_/gameId/401915572",
+      "season": 2026,
+      "period": null,
+      "stats": {
+        "home": {},
+        "away": {}
+      },
+      "events": [],
+      "details_at": "2026-10-15T07:11:09.564706+00:00",
+      "global_history": {
+        "home": [
+          {
+            "id": "401876441",
+            "kickoff": "2026-10-11T15:15:00+00:00",
+            "goals": 4,
+            "goals_against": 1,
+            "result": "W",
+            "opponent": "AJ Auxerre",
+            "competition": "French Ligue 1",
+            "source_url": "https://www.espn.com/soccer/match/_/gameId/401876441"
+          },
+          {
+            "id": "401924925",
+            "kickoff": "2026-10-02T17:00:00+00:00",
+            "goals": 0,
+            "goals_against": 1,
+            "result": "L",
+            "opponent": "Stade Laval",
+            "competition": "Club Friendly",
+            "source_url": "https://www.espn.com/soccer/match/_/gameId/401924925"
+          },
+          {
+            "id": "401876454",
+            "kickoff": "2026-09-19T18:45:00+00:00",
+            "goals": 0,
+            "goals_against": 4,
+            "result": "L",
+            "opponent": "Lyon",
+            "competition": "French Ligue 1",
+            "source_url": "https://www.espn.com/soccer/match/_/gameId/401876454"
+          },
+          {
+            "id": "401915593",
+            "kickoff": "2026-09-16T19:00:00+00:00",
+            "goals": 0,
+            "goals_against": 0,
+            "result": "D",
+            "opponent": "SK Sturm Graz",
+            "competition": "UEFA Europa League",
+            "source_url": "https://www.espn.com/soccer/match/_/gameId/401915593"
+          },
+          {
+            "id": "401876459",
+            "kickoff": "2026-09-11T18:45:00+00:00",
+            "goals": 1,
+            "goals_against": 0,
+            "result": "W",
+            "opponent": "Marseille",
+            "competition": "French Ligue 1",
+            "source_url": "https://www.espn.com/soccer/match/_/gameId/401876459"
+          }
+        ],
+        "away": [
+          {
+            "id": "401896754",
+            "kickoff": "2026-10-10T16:30:00+00:00",
+            "goals": 0,
+            "goals_against": 3,
+            "result": "L",
+            "opponent": "AEK Athens",
+            "competition": "Greek Super League",
+            "source_url": "https://www.espn.com/soccer/match/_/gameId/401896754"
+          },
+          {
+            "id": "401896756",
+            "kickoff": "2026-09-20T16:00:00+00:00",
+            "goals": 2,
+            "goals_against": 2,
+            "result": "D",
+            "opponent": "Asteras Tripoli",
+            "competition": "Greek Super League",
+            "source_url": "https://www.espn.com/soccer/match/_/gameId/401896756"
+          },
+          {
+            "id": "401915585",
+            "kickoff": "2026-09-17T16:45:00+00:00",
+            "goals": 2,
+            "goals_against": 0,
+            "result": "W",
+            "opponent": "TSG Hoffenheim",
+            "competition": "UEFA Europa League",
+            "source_url": "https://www.espn.com/soccer/match/_/gameId/401915585"
+          },
+          {
+            "id": "401896762",
+            "kickoff": "2026-09-12T16:00:00+00:00",
+            "goals": 1,
+            "goals_against": 0,
+            "result": "W",
+            "opponent": "Olympiacos",
+            "competition": "Greek Super League",
+            "source_url": "https://www.espn.com/soccer/match/_/gameId/401896762"
+          },
+          {
+            "id": "401896766",
+            "kickoff": "2026-09-06T16:30:00+00:00",
+            "goals": 2,
+            "goals_against": 0,
+            "result": "W",
+            "opponent": "Kifisia",
+            "competition": "Greek Super League",
+            "source_url": "https://www.espn.com/soccer/match/_/gameId/401896766"
+          }
+        ],
+        "notice": "Cinco antecedentes disponibles de ESPN entre competiciones. La cobertura puede ser incompleta y no ajusta la fuerza entre ligas. Modelo inicial sin entrenamiento; córners y amarillas usan priors cuando faltan observaciones."
+      },
+      "score_pending_confirmation": false
+    },
+    "verified_at": "2026-10-15T07:16:36.766998+00:00",
+    "source": "espn",
+    "stale": false,
+    "status_label": "Programado",
+    "kickoff": "2026-10-15T19:00:00+00:00",
+    "venue": "Roazhon Park",
+    "matchday": null,
+    "status": "SCHEDULED",
+    "league": {
+      "code": "EL",
+      "name": "UEFA Europa League",
+      "country": "Europa",
+      "logo_url": null,
+      "accent": "#00E5A8"
+    },
+    "home": {
+      "id": 160,
+      "name": "Stade Rennais",
+      "short_name": "Rennes",
+      "tla": "REN",
+      "logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png",
+      "city": null,
+      "stadium": null,
+      "primary_color": "#00E5A8",
+      "secondary_color": "#0D1526",
+      "founded": null,
+      "website": null,
+      "club_colors": null,
+      "coach_name": null,
+      "form": {
+        "matches_used": 5,
+        "form_string": "V-D-D-E-V",
+        "points": 7,
+        "gf_avg": 1.0,
+        "ga_avg": 1.2,
+        "xg_avg": null,
+        "xga_avg": null,
+        "attack_index": null,
+        "defense_index": null,
+        "breakdown": {
+          "slices": [
+            {
+              "id": "401876441",
+              "kickoff": "2026-10-11T15:15:00+00:00",
+              "goals": 4,
+              "goals_against": 1,
+              "result": "W",
+              "opponent": "AJ Auxerre",
+              "competition": "French Ligue 1",
+              "source_url": "https://www.espn.com/soccer/match/_/gameId/401876441"
+            },
+            {
+              "id": "401924925",
+              "kickoff": "2026-10-02T17:00:00+00:00",
+              "goals": 0,
+              "goals_against": 1,
+              "result": "L",
+              "opponent": "Stade Laval",
+              "competition": "Club Friendly",
+              "source_url": "https://www.espn.com/soccer/match/_/gameId/401924925"
+            },
+            {
+              "id": "401876454",
+              "kickoff": "2026-09-19T18:45:00+00:00",
+              "goals": 0,
+              "goals_against": 4,
+              "result": "L",
+              "opponent": "Lyon",
+              "competition": "French Ligue 1",
+              "source_url": "https://www.espn.com/soccer/match/_/gameId/401876454"
+            },
+            {
+              "id": "401915593",
+              "kickoff": "2026-09-16T19:00:00+00:00",
+              "goals": 0,
+              "goals_against": 0,
+              "result": "D",
+              "opponent": "SK Sturm Graz",
+              "competition": "UEFA Europa League",
+              "source_url": "https://www.espn.com/soccer/match/_/gameId/401915593"
+            },
+            {
+              "id": "401876459",
+              "kickoff": "2026-09-11T18:45:00+00:00",
+              "goals": 1,
+              "goals_against": 0,
+              "result": "W",
+              "opponent": "Marseille",
+              "competition": "French Ligue 1",
+              "source_url": "https://www.espn.com/soccer/match/_/gameId/401876459"
+            }
+          ],
+          "notice": "Cinco antecedentes disponibles de ESPN entre competiciones. La cobertura puede ser incompleta y no ajusta la fuerza entre ligas. Modelo inicial sin entrenamiento; córners y amarillas usan priors cuando faltan observaciones."
+        }
+      },
+      "key_player": null,
+      "squad": []
+    },
+    "away": {
+      "id": 161,
+      "name": "OFI Crete",
+      "short_name": "OFI Crete",
+      "tla": "OFI",
+      "logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/1010.png",
+      "city": null,
+      "stadium": null,
+      "primary_color": "#00E5A8",
+      "secondary_color": "#0D1526",
+      "founded": null,
+      "website": null,
+      "club_colors": null,
+      "coach_name": null,
+      "form": {
+        "matches_used": 5,
+        "form_string": "D-E-V-V-V",
+        "points": 10,
+        "gf_avg": 1.4,
+        "ga_avg": 1.0,
+        "xg_avg": null,
+        "xga_avg": null,
+        "attack_index": null,
+        "defense_index": null,
+        "breakdown": {
+          "slices": [
+            {
+              "id": "401896754",
+              "kickoff": "2026-10-10T16:30:00+00:00",
+              "goals": 0,
+              "goals_against": 3,
+              "result": "L",
+              "opponent": "AEK Athens",
+              "competition": "Greek Super League",
+              "source_url": "https://www.espn.com/soccer/match/_/gameId/401896754"
+            },
+            {
+              "id": "401896756",
+              "kickoff": "2026-09-20T16:00:00+00:00",
+              "goals": 2,
+              "goals_against": 2,
+              "result": "D",
+              "opponent": "Asteras Tripoli",
+              "competition": "Greek Super League",
+              "source_url": "https://www.espn.com/soccer/match/_/gameId/401896756"
+            },
+            {
+              "id": "401915585",
+              "kickoff": "2026-09-17T16:45:00+00:00",
+              "goals": 2,
+              "goals_against": 0,
+              "result": "W",
+              "opponent": "TSG Hoffenheim",
+              "competition": "UEFA Europa League",
+              "source_url": "https://www.espn.com/soccer/match/_/gameId/401915585"
+            },
+            {
+              "id": "401896762",
+              "kickoff": "2026-09-12T16:00:00+00:00",
+              "goals": 1,
+              "goals_against": 0,
+              "result": "W",
+              "opponent": "Olympiacos",
+              "competition": "Greek Super League",
+              "source_url": "https://www.espn.com/soccer/match/_/gameId/401896762"
+            },
+            {
+              "id": "401896766",
+              "kickoff": "2026-09-06T16:30:00+00:00",
+              "goals": 2,
+              "goals_against": 0,
+              "result": "W",
+              "opponent": "Kifisia",
+              "competition": "Greek Super League",
+              "source_url": "https://www.espn.com/soccer/match/_/gameId/401896766"
+            }
+          ],
+          "notice": "Cinco antecedentes disponibles de ESPN entre competiciones. La cobertura puede ser incompleta y no ajusta la fuerza entre ligas. Modelo inicial sin entrenamiento; córners y amarillas usan priors cuando faltan observaciones."
+        }
+      },
+      "key_player": null,
+      "squad": []
+    },
+    "prediction": {
+      "p_home": 0.34875475274887036,
+      "p_draw": 0.29792382293070335,
+      "p_away": 0.35332142432042635,
+      "p_over_25": 0.428823313377918,
+      "p_under_25": 0.571176686622082,
+      "lambda_home": 1.1925000000000001,
+      "lambda_away": 1.2019049345510289,
+      "confidence": 0.35,
+      "confidence_label": "BAJA",
+      "pick": "VISITANTE",
+      "model_version": "global-l5-v1.0",
+      "explanation": {
+        "notice": "Cinco antecedentes disponibles de ESPN entre competiciones. La cobertura puede ser incompleta y no ajusta la fuerza entre ligas. Modelo inicial sin entrenamiento; córners y amarillas usan priors cuando faltan observaciones.",
+        "history_scope": "cross_competition",
+        "home_history": [
+          {
+            "id": "401876441",
+            "kickoff": "2026-10-11T15:15:00+00:00",
+            "goals": 4,
+            "goals_against": 1,
+            "result": "W",
+            "opponent": "AJ Auxerre",
+            "competition": "French Ligue 1",
+            "source_url": "https://www.espn.com/soccer/match/_/gameId/401876441"
+          },
+          {
+            "id": "401924925",
+            "kickoff": "2026-10-02T17:00:00+00:00",
+            "goals": 0,
+            "goals_against": 1,
+            "result": "L",
+            "opponent": "Stade Laval",
+            "competition": "Club Friendly",
+            "source_url": "https://www.espn.com/soccer/match/_/gameId/401924925"
+          },
+          {
+            "id": "401876454",
+            "kickoff": "2026-09-19T18:45:00+00:00",
+            "goals": 0,
+            "goals_against": 4,
+            "result": "L",
+            "opponent": "Lyon",
+            "competition": "French Ligue 1",
+            "source_url": "https://www.espn.com/soccer/match/_/gameId/401876454"
+          },
+          {
+            "id": "401915593",
+            "kickoff": "2026-09-16T19:00:00+00:00",
+            "goals": 0,
+            "goals_against": 0,
+            "result": "D",
+            "opponent": "SK Sturm Graz",
+            "competition": "UEFA Europa League",
+            "source_url": "https://www.espn.com/soccer/match/_/gameId/401915593"
+          },
+          {
+            "id": "401876459",
+            "kickoff": "2026-09-11T18:45:00+00:00",
+            "goals": 1,
+            "goals_against": 0,
+            "result": "W",
+            "opponent": "Marseille",
+            "competition": "French Ligue 1",
+            "source_url": "https://www.espn.com/soccer/match/_/gameId/401876459"
+          }
+        ],
+        "away_history": [
+          {
+            "id": "401896754",
+            "kickoff": "2026-10-10T16:30:00+00:00",
+            "goals": 0,
+            "goals_against": 3,
+            "result": "L",
+            "opponent": "AEK Athens",
+            "competition": "Greek Super League",
+            "source_url": "https://www.espn.com/soccer/match/_/gameId/401896754"
+          },
+          {
+            "id": "401896756",
+            "kickoff": "2026-09-20T16:00:00+00:00",
+            "goals": 2,
+            "goals_against": 2,
+            "result": "D",
+            "opponent": "Asteras Tripoli",
+            "competition": "Greek Super League",
+            "source_url": "https://www.espn.com/soccer/match/_/gameId/401896756"
+          },
+          {
+            "id": "401915585",
+            "kickoff": "2026-09-17T16:45:00+00:00",
+            "goals": 2,
+            "goals_against": 0,
+            "result": "W",
+            "opponent": "TSG Hoffenheim",
+            "competition": "UEFA Europa League",
+            "source_url": "https://www.espn.com/soccer/match/_/gameId/401915585"
+          },
+          {
+            "id": "401896762",
+            "kickoff": "2026-09-12T16:00:00+00:00",
+            "goals": 1,
+            "goals_against": 0,
+            "result": "W",
+            "opponent": "Olympiacos",
+            "competition": "Greek Super League",
+            "source_url": "https://www.espn.com/soccer/match/_/gameId/401896762"
+          },
+          {
+            "id": "401896766",
+            "kickoff": "2026-09-06T16:30:00+00:00",
+            "goals": 2,
+            "goals_against": 0,
+            "result": "W",
+            "opponent": "Kifisia",
+            "competition": "Greek Super League",
+            "source_url": "https://www.espn.com/soccer/match/_/gameId/401896766"
+          }
+        ],
+        "smoothing": "5 partidos de prior a 1.25 goles; factor local 1.06; Poisson Dixon-Coles"
+      },
+      "computed_at": "2026-10-15T07:17:19.317936+00:00"
+    },
+    "forecasts": {
+      "PRE": {
+        "id": 417,
+        "created_at": "2026-10-15T07:11:46.540511+00:00",
+        "source_at": "2026-10-15T07:11:09.564706+00:00",
+        "phase": "PRE",
+        "minute": null,
+        "clock": null,
+        "score": [
+          0,
+          0
+        ],
+        "markets": {
+          "result": {
+            "market": "result",
+            "available": true,
+            "choices": {
+              "LOCAL": 0.3487547527488703,
+              "EMPATE": 0.2979238229307033,
+              "VISITANTE": 0.3533214243204263
+            },
+            "recommendation": "VISITANTE",
+            "suggestion": {
+              "pick": "VISITANTE",
+              "probability": 0.3533214243204263,
+              "gap": 0.004566671571555991,
+              "policy": "doble-oportunidad-v1-5pp",
+              "reason": "Se mantiene el resultado simple: equipo y empate no son las dos opciones principales con diferencia de hasta 5 puntos porcentuales."
+            },
+            "lines": {}
+          },
+          "goals": {
+            "market": "goals",
+            "available": true,
+            "current": 0,
+            "expected_total": 2.394404934551029,
+            "line": 2.5,
+            "choices": {
+              "OVER": 0.42882876429509276,
+              "UNDER": 0.5711712357049072
+            },
+            "recommendation": "UNDER",
+            "closed": false,
+            "prior_samples": 10,
+            "basis": "cinco marcadores disponibles entre competiciones; cobertura limitada",
+            "lines": {
+              "0.5": {
+                "line": 0.5,
+                "choices": {
+                  "OVER": 0.9087730512208283,
+                  "UNDER": 0.0912269487791717
+                },
+                "closed": false
+              },
+              "1.5": {
+                "line": 1.5,
+                "choices": {
+                  "OVER": 0.6903387948999458,
+                  "UNDER": 0.30966120510005424
+                },
+                "closed": false
+              },
+              "2.5": {
+                "line": 2.5,
+                "choices": {
+                  "OVER": 0.42882876429509276,
+                  "UNDER": 0.5711712357049072
+                },
+                "closed": false
+              },
+              "3.5": {
+                "line": 3.5,
+                "choices": {
+                  "OVER": 0.22010846172347598,
+                  "UNDER": 0.779891538276524
+                },
+                "closed": false
+              },
+              "4.5": {
+                "line": 4.5,
+                "choices": {
+                  "OVER": 0.09516823111886019,
+                  "UNDER": 0.9048317688811398
+                },
+                "closed": false
+              },
+              "5.5": {
+                "line": 5.5,
+                "choices": {
+                  "OVER": 0.035336730182133125,
+                  "UNDER": 0.9646632698178669
+                },
+                "closed": false
+              }
+            }
+          },
+          "corners": {
+            "market": "corners",
+            "available": true,
+            "current": 0,
+            "expected_total": 9.0,
+            "line": 9.5,
+            "choices": {
+              "OVER": 0.41259175566805784,
+              "UNDER": 0.5874082443319422
+            },
+            "recommendation": "UNDER",
+            "closed": false,
+            "prior_samples": 0,
+            "basis": "prior inicial de dominio; sin histórico observado suficiente",
+            "lines": {
+              "6.5": {
+                "line": 6.5,
+                "choices": {
+                  "OVER": 0.7932191601400129,
+                  "UNDER": 0.20678083985998708
+                },
+                "closed": false
+              },
+              "7.5": {
+                "line": 7.5,
+                "choices": {
+                  "OVER": 0.6761030356871038,
+                  "UNDER": 0.32389696431289616
+                },
+                "closed": false
+              },
+              "8.5": {
+                "line": 8.5,
+                "choices": {
+                  "OVER": 0.5443473956775808,
+                  "UNDER": 0.45565260432241916
+                },
+                "closed": false
+              },
+              "9.5": {
+                "line": 9.5,
+                "choices": {
+                  "OVER": 0.41259175566805784,
+                  "UNDER": 0.5874082443319422
+                },
+                "closed": false
+              },
+              "10.5": {
+                "line": 10.5,
+                "choices": {
+                  "OVER": 0.29401167965948694,
+                  "UNDER": 0.7059883203405131
+                },
+                "closed": false
+              },
+              "11.5": {
+                "line": 11.5,
+                "choices": {
+                  "OVER": 0.19699161747065652,
+                  "UNDER": 0.8030083825293435
+                },
+                "closed": false
+              }
+            }
+          },
+          "yellows": {
+            "market": "yellows",
+            "available": true,
+            "current": 0,
+            "expected_total": 4.0,
+            "line": 4.5,
+            "choices": {
+              "OVER": 0.3711630648201265,
+              "UNDER": 0.6288369351798735
+            },
+            "recommendation": "UNDER",
+            "closed": false,
+            "prior_samples": 0,
+            "basis": "prior inicial de dominio; sin histórico observado suficiente",
+            "lines": {
+              "1.5": {
+                "line": 1.5,
+                "choices": {
+                  "OVER": 0.9084218055563291,
+                  "UNDER": 0.09157819444367088
+                },
+                "closed": false
+              },
+              "2.5": {
+                "line": 2.5,
+                "choices": {
+                  "OVER": 0.7618966944464556,
+                  "UNDER": 0.23810330555354442
+                },
+                "closed": false
+              },
+              "3.5": {
+                "line": 3.5,
+                "choices": {
+                  "OVER": 0.5665298796332912,
+                  "UNDER": 0.43347012036670884
+                },
+                "closed": false
+              },
+              "4.5": {
+                "line": 4.5,
+                "choices": {
+                  "OVER": 0.3711630648201265,
+                  "UNDER": 0.6288369351798735
+                },
+                "closed": false
+              },
+              "5.5": {
+                "line": 5.5,
+                "choices": {
+                  "OVER": 0.21486961296959484,
+                  "UNDER": 0.7851303870304052
+                },
+                "closed": false
+              },
+              "6.5": {
+                "line": 6.5,
+                "choices": {
+                  "OVER": 0.11067397840257398,
+                  "UNDER": 0.889326021597426
+                },
+                "closed": false
+              }
+            }
+          }
+        },
+        "model_version": "mercados-v1-r1",
+        "rules": "Resultado final a 90 minutos más añadido. Prórroga/penales: selección anulada. Sin dinero.",
+        "assumptions": "Poisson e intensidades heurísticas; horizonte en vivo de 95 min. Calibración separada por fase y mercado.",
+        "prediction_family": "global-l5-v1.0",
+        "history_notice": "Cinco antecedentes disponibles de ESPN entre competiciones. La cobertura puede ser incompleta y no ajusta la fuerza entre ligas. Modelo inicial sin entrenamiento; córners y amarillas usan priors cuando faltan observaciones.",
+        "observed_details_at": null,
+        "outcomes": null
+      },
+      "LIVE": null,
+      "live_current": false
+    },
+    "h2h": []
+  }
+}

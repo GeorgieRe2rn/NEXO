@@ -1,0 +1,11 @@
+# Cancha y avisos de acciones confirmadas
+
+El partido destacado de la jornada incluye una cancha SVG con perspectiva y una paleta para goles, amarillas, rojas, córners, faltas, penales, cambios y VAR. Los avisos aparecen al recibir cambios reales desde la fuente. La cancha es ilustrativa: ESPN no proporciona ubicación del balón ni coordenadas, así que no se simula un ataque ni una posición real.
+
+Un gol requiere incremento del marcador confirmado y datos recientes. Las reducciones se anuncian como corrección y los incrementos múltiples como actualización del marcador. Los goles pendientes de confirmación no se celebran. Un cambio de partido, la apertura inicial, datos antiguos o la reconexión tras una pausa no reproducen celebraciones antiguas. Los comentarios incorporados con más de dos minutos de retraso se conservan en la cronología pero no se anuncian como acciones nuevas.
+
+Los eventos nuevos de la cronología activan los avisos de tarjetas, córners y otras acciones. Si aumentan los contadores reales recientes sin comentario individual, se anuncia el cambio de estadísticas sin inventar su minuto. Las ausencias no se interpretan como cero. Los goles tienen prioridad sobre la cola de avisos. Cada aviso dura 6.5 segundos; el último evento permanece después como acción publicada, claramente diferenciado de una acción nueva.
+
+La opción Repetir última acción usa un evento real y lo identifica como repetición. Las animaciones respetan la preferencia del sistema de reducir movimiento. El feed conserva su frecuencia habitual: interfaz cada 15 segundos, consultas compartidas aproximadamente cada 60 segundos; no hay garantía de latencia inmediata del proveedor. No se modifican los modelos, pronósticos ni selecciones automáticas.
+
+El temporizador muestra segundos publicados cuando existen. Si la fuente solo publica minutos, los segundos son aproximados desde la recepción del minuto, se identifican con ≈ y se mantiene visible el minuto de ESPN en la cancha. Se detienen en :59 hasta confirmar el siguiente minuto y se pausan en descansos o con datos desactualizados. Sin una referencia válida se muestra :--. Esta estimación es visual y no interviene en el análisis ni en los resultados.

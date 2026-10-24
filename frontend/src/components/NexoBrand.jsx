@@ -1,0 +1,2 @@
+export function NexoMark({className="",size=34}){return <svg width={size} height={size} viewBox="0 0 64 64" fill="none" aria-hidden="true" className={className}><path d="M6 22 25 10 43 21 43 33 25 22 17 27 17 44 6 37Z" fill="currentColor"/><path d="M31 4 54 18 54 43 35 55 15 43 15 31 35 43 43 38 43 25 31 18Z" fill="currentColor"/></svg>}
+export default function NexoBrand({compact=false}){return <span className="nexo-brand"><NexoMark className="nexo-mark"/>{!compact&&<span className="nexo-wordmark">NEXO</span>}</span>}

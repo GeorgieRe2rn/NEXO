@@ -1,0 +1,233 @@
+{
+  "checked_at": "2026-10-16T07:04:12.993495+00:00",
+  "timezone": "America/Hermosillo",
+  "source": "ESPN public scoreboard, 60 UTC date/league requests",
+  "source_matches_in_10_local_days": 118,
+  "compared": 118,
+  "mismatches": [],
+  "missing": [],
+  "errors": [],
+  "today": [
+    {
+      "id": 2185,
+      "match": "Frosinone vs Sassuolo",
+      "local": "2026-10-16 11:45"
+    },
+    {
+      "id": 2173,
+      "match": "Deportivo vs Levante",
+      "local": "2026-10-16 12:00"
+    },
+    {
+      "id": 2142,
+      "match": "Necaxa vs Atlas",
+      "local": "2026-10-16 18:00"
+    },
+    {
+      "id": 2143,
+      "match": "Atlante vs Pumas UNAM",
+      "local": "2026-10-16 20:00"
+    },
+    {
+      "id": 2144,
+      "match": "Tijuana vs Puebla",
+      "local": "2026-10-16 20:05"
+    }
+  ],
+  "last_day": [
+    {
+      "id": 2647,
+      "match": "Internazionale vs Fiorentina",
+      "local": "2026-10-25 04:30"
+    },
+    {
+      "id": 2642,
+      "match": "Athletic Club vs Getafe",
+      "local": "2026-10-25 06:00"
+    },
+    {
+      "id": 2637,
+      "match": "Crystal Palace vs Newcastle United",
+      "local": "2026-10-25 07:00"
+    },
+    {
+      "id": 2638,
+      "match": "Hull City vs Brentford",
+      "local": "2026-10-25 07:00"
+    },
+    {
+      "id": 2639,
+      "match": "Liverpool vs Brighton & Hove Albion",
+      "local": "2026-10-25 07:00"
+    },
+    {
+      "id": 2640,
+      "match": "Manchester United vs AFC Bournemouth",
+      "local": "2026-10-25 07:00"
+    },
+    {
+      "id": 2648,
+      "match": "Atalanta vs Frosinone",
+      "local": "2026-10-25 07:00"
+    },
+    {
+      "id": 2649,
+      "match": "Genoa vs Venezia",
+      "local": "2026-10-25 07:00"
+    },
+    {
+      "id": 2643,
+      "match": "Celta Vigo vs Real Betis",
+      "local": "2026-10-25 08:15"
+    },
+    {
+      "id": 2641,
+      "match": "Sunderland vs Leeds United",
+      "local": "2026-10-25 09:30"
+    },
+    {
+      "id": 2650,
+      "match": "Lecce vs Juventus",
+      "local": "2026-10-25 10:00"
+    },
+    {
+      "id": 2644,
+      "match": "Real Sociedad vs Levante",
+      "local": "2026-10-25 10:30"
+    },
+    {
+      "id": 2651,
+      "match": "Udinese vs AC Milan",
+      "local": "2026-10-25 12:45"
+    },
+    {
+      "id": 2645,
+      "match": "Barcelona vs Real Madrid",
+      "local": "2026-10-25 13:00"
+    },
+    {
+      "id": 2633,
+      "match": "Atlas vs Puebla",
+      "local": "2026-10-25 16:00"
+    },
+    {
+      "id": 2634,
+      "match": "América vs Pachuca",
+      "local": "2026-10-25 18:00"
+    },
+    {
+      "id": 2635,
+      "match": "Querétaro vs Cruz Azul",
+      "local": "2026-10-25 18:00"
+    },
+    {
+      "id": 2652,
+      "match": "LAFC vs LA Galaxy",
+      "local": "2026-10-25 18:00"
+    },
+    {
+      "id": 2636,
+      "match": "Tijuana vs Santos",
+      "local": "2026-10-25 20:00"
+    }
+  ],
+  "corrections": [
+    "Se amplió la consulta hasta el día UTC posterior al último día local mostrado.",
+    "Próximos excluye encuentros con hora de inicio vencida.",
+    "Búsqueda sin distinción de acentos."
+  ],
+  "catalog_checks": [
+    {
+      "date": "2026-10-16",
+      "matches": 5,
+      "expected": 5,
+      "pass": true,
+      "timezone": "America/Hermosillo"
+    },
+    {
+      "date": "2026-10-25",
+      "matches": 19,
+      "expected": 19,
+      "pass": true,
+      "timezone": "America/Hermosillo"
+    }
+  ],
+  "ui_checks": [
+    {
+      "filter": "Hoy + MX",
+      "expected": [
+        2142,
+        2143,
+        2144
+      ],
+      "actual": [
+        2142,
+        2143,
+        2144
+      ],
+      "pass": true
+    },
+    {
+      "filter": "Hoy + PL",
+      "expected": [],
+      "actual": [],
+      "pass": true
+    },
+    {
+      "filter": "Hoy + PD",
+      "expected": [
+        2173
+      ],
+      "actual": [
+        2173
+      ],
+      "pass": true
+    },
+    {
+      "filter": "Hoy + SA",
+      "expected": [
+        2185
+      ],
+      "actual": [
+        2185
+      ],
+      "pass": true
+    },
+    {
+      "filter": "Hoy + MLS",
+      "expected": [],
+      "actual": [],
+      "pass": true
+    },
+    {
+      "filter": "Hoy + próximos",
+      "pass": true,
+      "count": 5
+    },
+    {
+      "filter": "Hoy + finalizados",
+      "pass": true,
+      "count": 0
+    },
+    {
+      "filter": "Hoy + en vivo",
+      "pass": true,
+      "count": 0
+    },
+    {
+      "filter": "Hoy + búsqueda Necaxa",
+      "pass": true,
+      "count": 1
+    },
+    {
+      "filter": "Último día: 25 octubre",
+      "pass": true,
+      "count": 19
+    },
+    {
+      "filter": "Búsqueda América sin acento",
+      "pass": true,
+      "count": 4
+    }
+  ]
+}

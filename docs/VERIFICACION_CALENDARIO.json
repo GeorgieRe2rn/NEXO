@@ -1,0 +1,248 @@
+{
+  "checked_at": "2026-10-15T00:27:02.703011+00:00",
+  "timezone": "America/Hermosillo",
+  "providers": [
+    "ESPN",
+    "football-data.org"
+  ],
+  "leagues": [
+    {
+      "code": "PL",
+      "http_status": 200,
+      "checked": 10,
+      "matches": [
+        {
+          "home": "Everton FC",
+          "away": "Chelsea FC",
+          "football_data_utc": "2026-10-17T11:30:00Z",
+          "espn_utc": "2026-10-17T11:30:00+00:00",
+          "same_kickoff": true
+        },
+        {
+          "home": "Fulham FC",
+          "away": "Hull City AFC",
+          "football_data_utc": "2026-10-17T14:00:00Z",
+          "espn_utc": "2026-10-17T14:00:00+00:00",
+          "same_kickoff": true
+        },
+        {
+          "home": "Manchester City FC",
+          "away": "Ipswich Town FC",
+          "football_data_utc": "2026-10-17T14:00:00Z",
+          "espn_utc": "2026-10-17T14:00:00+00:00",
+          "same_kickoff": true
+        },
+        {
+          "home": "Brentford FC",
+          "away": "Liverpool FC",
+          "football_data_utc": "2026-10-17T14:00:00Z",
+          "espn_utc": "2026-10-17T14:00:00+00:00",
+          "same_kickoff": true
+        },
+        {
+          "home": "Newcastle United FC",
+          "away": "Aston Villa FC",
+          "football_data_utc": "2026-10-17T16:30:00Z",
+          "espn_utc": "2026-10-17T16:30:00+00:00",
+          "same_kickoff": true
+        },
+        {
+          "home": "AFC Bournemouth",
+          "away": "Sunderland AFC",
+          "football_data_utc": "2026-10-18T13:00:00Z",
+          "espn_utc": "2026-10-18T13:00:00+00:00",
+          "same_kickoff": true
+        },
+        {
+          "home": "Leeds United FC",
+          "away": "Manchester United FC",
+          "football_data_utc": "2026-10-18T13:00:00Z",
+          "espn_utc": "2026-10-18T13:00:00+00:00",
+          "same_kickoff": true
+        },
+        {
+          "home": "Brighton & Hove Albion FC",
+          "away": "Crystal Palace FC",
+          "football_data_utc": "2026-10-18T13:00:00Z",
+          "espn_utc": "2026-10-18T13:00:00+00:00",
+          "same_kickoff": true
+        },
+        {
+          "home": "Nottingham Forest FC",
+          "away": "Arsenal FC",
+          "football_data_utc": "2026-10-18T15:30:00Z",
+          "espn_utc": "2026-10-18T15:30:00+00:00",
+          "same_kickoff": true
+        },
+        {
+          "home": "Tottenham Hotspur FC",
+          "away": "Coventry City FC",
+          "football_data_utc": "2026-10-19T19:00:00Z",
+          "espn_utc": "2026-10-19T19:00:00+00:00",
+          "same_kickoff": true
+        }
+      ]
+    },
+    {
+      "code": "PD",
+      "http_status": 200,
+      "checked": 11,
+      "matches": [
+        {
+          "home": "RC Deportivo La Coruña",
+          "away": "Levante UD",
+          "football_data_utc": "2026-10-16T19:00:00Z",
+          "espn_utc": "2026-10-16T19:00:00+00:00",
+          "same_kickoff": true
+        },
+        {
+          "home": "RCD Espanyol de Barcelona",
+          "away": "Club Atlético de Madrid",
+          "football_data_utc": "2026-10-17T12:00:00Z",
+          "espn_utc": "2026-10-17T12:00:00+00:00",
+          "same_kickoff": true
+        },
+        {
+          "home": "Villarreal CF",
+          "away": "Elche CF",
+          "football_data_utc": "2026-10-17T14:15:00Z",
+          "espn_utc": "2026-10-17T14:15:00+00:00",
+          "same_kickoff": true
+        },
+        {
+          "home": "Real Betis Balompié",
+          "away": "FC Barcelona",
+          "football_data_utc": "2026-10-17T16:30:00Z",
+          "espn_utc": "2026-10-17T16:30:00+00:00",
+          "same_kickoff": true
+        },
+        {
+          "home": "Valencia CF",
+          "away": "Athletic Club",
+          "football_data_utc": "2026-10-17T19:00:00Z",
+          "espn_utc": "2026-10-17T19:00:00+00:00",
+          "same_kickoff": true
+        },
+        {
+          "home": "CA Osasuna",
+          "away": "Real Racing Club de Santander",
+          "football_data_utc": "2026-10-18T12:00:00Z",
+          "espn_utc": "2026-10-18T12:00:00+00:00",
+          "same_kickoff": true
+        },
+        {
+          "home": "RC Celta de Vigo",
+          "away": "Deportivo Alavés",
+          "football_data_utc": "2026-10-18T14:15:00Z",
+          "espn_utc": "2026-10-18T14:15:00+00:00",
+          "same_kickoff": true
+        },
+        {
+          "home": "Málaga CF",
+          "away": "Real Sociedad de Fútbol",
+          "football_data_utc": "2026-10-18T16:30:00Z",
+          "espn_utc": "2026-10-18T16:30:00+00:00",
+          "same_kickoff": true
+        },
+        {
+          "home": "Real Madrid CF",
+          "away": "Sevilla FC",
+          "football_data_utc": "2026-10-18T19:00:00Z",
+          "espn_utc": "2026-10-18T19:00:00+00:00",
+          "same_kickoff": true
+        },
+        {
+          "home": "Getafe CF",
+          "away": "Rayo Vallecano de Madrid",
+          "football_data_utc": "2026-10-19T19:00:00Z",
+          "espn_utc": "2026-10-19T19:00:00+00:00",
+          "same_kickoff": true
+        },
+        {
+          "home": "Levante UD",
+          "away": "Athletic Club",
+          "football_data_utc": "2026-10-21T18:00:00Z",
+          "espn_utc": "2026-10-21T18:00:00+00:00",
+          "same_kickoff": true
+        }
+      ]
+    },
+    {
+      "code": "SA",
+      "http_status": 200,
+      "checked": 10,
+      "matches": [
+        {
+          "home": "Frosinone Calcio",
+          "away": "US Sassuolo Calcio",
+          "football_data_utc": "2026-10-16T18:45:00Z",
+          "espn_utc": "2026-10-16T18:45:00+00:00",
+          "same_kickoff": true
+        },
+        {
+          "home": "Venezia FC",
+          "away": "SSC Napoli",
+          "football_data_utc": "2026-10-17T13:00:00Z",
+          "espn_utc": "2026-10-17T13:00:00+00:00",
+          "same_kickoff": true
+        },
+        {
+          "home": "Bologna FC 1909",
+          "away": "FC Internazionale Milano",
+          "football_data_utc": "2026-10-17T16:00:00Z",
+          "espn_utc": "2026-10-17T16:00:00+00:00",
+          "same_kickoff": true
+        },
+        {
+          "home": "AS Roma",
+          "away": "Genoa CFC",
+          "football_data_utc": "2026-10-17T18:45:00Z",
+          "espn_utc": "2026-10-17T18:45:00+00:00",
+          "same_kickoff": true
+        },
+        {
+          "home": "Udinese Calcio",
+          "away": "US Lecce",
+          "football_data_utc": "2026-10-18T10:30:00Z",
+          "espn_utc": "2026-10-18T10:30:00+00:00",
+          "same_kickoff": true
+        },
+        {
+          "home": "ACF Fiorentina",
+          "away": "Como 1907",
+          "football_data_utc": "2026-10-18T13:00:00Z",
+          "espn_utc": "2026-10-18T13:00:00+00:00",
+          "same_kickoff": true
+        },
+        {
+          "home": "AC Milan",
+          "away": "Atalanta BC",
+          "football_data_utc": "2026-10-18T16:00:00Z",
+          "espn_utc": "2026-10-18T16:00:00+00:00",
+          "same_kickoff": true
+        },
+        {
+          "home": "Juventus FC",
+          "away": "SS Lazio",
+          "football_data_utc": "2026-10-18T18:45:00Z",
+          "espn_utc": "2026-10-18T18:45:00+00:00",
+          "same_kickoff": true
+        },
+        {
+          "home": "AC Monza",
+          "away": "Cagliari Calcio",
+          "football_data_utc": "2026-10-19T16:30:00Z",
+          "espn_utc": "2026-10-19T16:30:00+00:00",
+          "same_kickoff": true
+        },
+        {
+          "home": "Parma Calcio 1913",
+          "away": "Torino FC",
+          "football_data_utc": "2026-10-19T18:45:00Z",
+          "espn_utc": "2026-10-19T18:45:00+00:00",
+          "same_kickoff": true
+        }
+      ]
+    }
+  ]
+}

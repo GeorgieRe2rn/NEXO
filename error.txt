@@ -1,0 +1,162 @@
+3:07:06 AM [vite] http proxy error: /api/v1/leagues
+Error: connect ECONNREFUSED 127.0.0.1:8000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+3:07:06 AM [vite] http proxy error: /api/v1/matches?league=ALL
+Error: connect ECONNREFUSED 127.0.0.1:8000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+3:07:06 AM [vite] http proxy error: /api/v1/auth/me
+Error: connect ECONNREFUSED 127.0.0.1:8000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+3:07:06 AM [vite] http proxy error: /api/v1/leagues
+Error: connect ECONNREFUSED 127.0.0.1:8000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+3:07:06 AM [vite] http proxy error: /api/v1/matches?league=ALL
+Error: connect ECONNREFUSED 127.0.0.1:8000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+3:07:06 AM [vite] http proxy error: /api/v1/auth/me
+Error: connect ECONNREFUSED 127.0.0.1:8000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+3:07:06 AM [vite] http proxy error: /api/v1/leagues
+Error: connect ECONNREFUSED 127.0.0.1:8000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+3:07:06 AM [vite] http proxy error: /api/v1/matches?league=ALL
+Error: connect ECONNREFUSED 127.0.0.1:8000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+3:07:06 AM [vite] http proxy error: /api/v1/leagues
+Error: connect ECONNREFUSED 127.0.0.1:8000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+3:07:06 AM [vite] http proxy error: /api/v1/matches?league=ALL
+Error: connect ECONNREFUSED 127.0.0.1:8000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+3:07:16 AM [vite] http proxy error: /api/v1/leagues
+Error: connect ECONNREFUSED 127.0.0.1:8000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+3:07:16 AM [vite] http proxy error: /api/v1/leagues/PL/players
+Error: connect ECONNREFUSED 127.0.0.1:8000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+3:07:16 AM [vite] http proxy error: /api/v1/leagues
+Error: connect ECONNREFUSED 127.0.0.1:8000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+3:07:16 AM [vite] http proxy error: /api/v1/leagues/PL/players
+Error: connect ECONNREFUSED 127.0.0.1:8000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+3:07:17 AM [vite] http proxy error: /api/v1/leagues
+Error: connect ECONNREFUSED 127.0.0.1:8000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+3:07:17 AM [vite] http proxy error: /api/v1/matches?league=ALL
+Error: connect ECONNREFUSED 127.0.0.1:8000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+3:07:17 AM [vite] http proxy error: /api/v1/leagues
+Error: connect ECONNREFUSED 127.0.0.1:8000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+3:07:17 AM [vite] http proxy error: /api/v1/matches?league=ALL
+Error: connect ECONNREFUSED 127.0.0.1:8000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+3:07:17 AM [vite] http proxy error: /api/v1/leagues
+Error: connect ECONNREFUSED 127.0.0.1:8000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+3:07:17 AM [vite] http proxy error: /api/v1/leagues/PL/players
+Error: connect ECONNREFUSED 127.0.0.1:8000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+3:07:17 AM [vite] http proxy error: /api/v1/leagues
+Error: connect ECONNREFUSED 127.0.0.1:8000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+3:07:17 AM [vite] http proxy error: /api/v1/leagues/PL/players
+Error: connect ECONNREFUSED 127.0.0.1:8000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+3:07:18 AM [vite] http proxy error: /api/v1/leagues
+Error: connect ECONNREFUSED 127.0.0.1:8000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+3:07:18 AM [vite] http proxy error: /api/v1/matches?league=ALL
+Error: connect ECONNREFUSED 127.0.0.1:8000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+3:07:18 AM [vite] http proxy error: /api/v1/leagues
+Error: connect ECONNREFUSED 127.0.0.1:8000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+3:07:18 AM [vite] http proxy error: /api/v1/matches?league=ALL
+Error: connect ECONNREFUSED 127.0.0.1:8000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+3:07:18 AM [vite] http proxy error: /api/v1/leagues
+Error: connect ECONNREFUSED 127.0.0.1:8000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+3:07:18 AM [vite] http proxy error: /api/v1/leagues/PL/players
+Error: connect ECONNREFUSED 127.0.0.1:8000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+3:07:18 AM [vite] http proxy error: /api/v1/leagues
+Error: connect ECONNREFUSED 127.0.0.1:8000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+3:07:18 AM [vite] http proxy error: /api/v1/leagues/PL/players
+Error: connect ECONNREFUSED 127.0.0.1:8000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+3:07:18 AM [vite] http proxy error: /api/v1/leagues
+Error: connect ECONNREFUSED 127.0.0.1:8000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+3:07:18 AM [vite] http proxy error: /api/v1/matches?league=ALL
+Error: connect ECONNREFUSED 127.0.0.1:8000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+3:07:18 AM [vite] http proxy error: /api/v1/leagues
+Error: connect ECONNREFUSED 127.0.0.1:8000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+3:07:18 AM [vite] http proxy error: /api/v1/matches?league=ALL
+Error: connect ECONNREFUSED 127.0.0.1:8000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+3:07:19 AM [vite] http proxy error: /api/v1/leagues
+Error: connect ECONNREFUSED 127.0.0.1:8000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+3:07:19 AM [vite] http proxy error: /api/v1/leagues/PL/players
+Error: connect ECONNREFUSED 127.0.0.1:8000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+3:07:19 AM [vite] http proxy error: /api/v1/leagues
+Error: connect ECONNREFUSED 127.0.0.1:8000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+3:07:19 AM [vite] http proxy error: /api/v1/leagues/PL/players
+Error: connect ECONNREFUSED 127.0.0.1:8000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+3:07:20 AM [vite] http proxy error: /api/v1/leagues
+Error: connect ECONNREFUSED 127.0.0.1:8000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+3:07:20 AM [vite] http proxy error: /api/v1/matches?league=ALL
+Error: connect ECONNREFUSED 127.0.0.1:8000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+3:07:20 AM [vite] http proxy error: /api/v1/leagues
+Error: connect ECONNREFUSED 127.0.0.1:8000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+3:07:20 AM [vite] http proxy error: /api/v1/matches?league=ALL
+Error: connect ECONNREFUSED 127.0.0.1:8000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+3:07:20 AM [vite] http proxy error: /api/v1/leagues
+Error: connect ECONNREFUSED 127.0.0.1:8000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+3:07:20 AM [vite] http proxy error: /api/v1/leagues/PL/players
+Error: connect ECONNREFUSED 127.0.0.1:8000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+3:07:20 AM [vite] http proxy error: /api/v1/leagues
+Error: connect ECONNREFUSED 127.0.0.1:8000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+3:07:20 AM [vite] http proxy error: /api/v1/leagues/PL/players
+Error: connect ECONNREFUSED 127.0.0.1:8000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+3:07:20 AM [vite] http proxy error: /api/v1/leagues
+Error: connect ECONNREFUSED 127.0.0.1:8000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+3:07:20 AM [vite] http proxy error: /api/v1/matches?league=ALL
+Error: connect ECONNREFUSED 127.0.0.1:8000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+3:07:20 AM [vite] http proxy error: /api/v1/leagues
+Error: connect ECONNREFUSED 127.0.0.1:8000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+3:07:20 AM [vite] http proxy error: /api/v1/matches?league=ALL
+Error: connect ECONNREFUSED 127.0.0.1:8000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+3:07:20 AM [vite] http proxy error: /api/v1/leagues
+Error: connect ECONNREFUSED 127.0.0.1:8000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+3:07:20 AM [vite] http proxy error: /api/v1/leagues/PL/players
+Error: connect ECONNREFUSED 127.0.0.1:8000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+3:07:20 AM [vite] http proxy error: /api/v1/leagues
+Error: connect ECONNREFUSED 127.0.0.1:8000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+3:07:20 AM [vite] http proxy error: /api/v1/leagues/PL/players
+Error: connect ECONNREFUSED 127.0.0.1:8000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)

@@ -1,0 +1,14 @@
+import { useState } from 'react';
+import { Link } from 'react-router-dom';
+import { api,kickoffLabel } from '../api/client';
+import usePolling from '../hooks/usePolling';
+const NAMES={result:'Ganador / empate',goals:'Goles',corners:'Córners',yellows:'Amarillas'};
+const REASONS={usable:'Utilizable',missing_final_counter:'Falta contador final publicado',missing_prior_history:'Faltan antecedentes anteriores completos'};
+export default function TrainingAudit(){
+ const {data,error,loading,reload}=usePolling(api.modelAudit,'model-audit',300000);
+ const [query,setQuery]=useState('');
+ if(!data)return <p role="status" className="text-sm text-mute">{error||'Auditando los partidos históricos…'}</p>;
+ return <div className="space-y-5"><div className="panel rounded-xl p-5"><div className="flex flex-wrap justify-between gap-3"><div><h2 className="font-semibold">Tus partidos anteriores sí cuentan.</h2><p className="text-xs text-mute mt-2">{data.processed_matches} partidos procesados · {data.audited_matches} con marcador válido auditado.</p></div><button className="pill" onClick={reload} disabled={loading}>Actualizar diagnóstico</button></div><p className="text-xs text-mute leading-6 mt-4">{data.notice}</p></div>
+ <div className="grid sm:grid-cols-2 xl:grid-cols-4 gap-3">{Object.entries(data.markets).map(([key,v])=><article key={key} className="panel rounded-xl p-5"><h3 className="text-sm font-semibold">{NAMES[key]}</h3><p className="stat-num text-3xl text-led mt-3">{v.usable_processed}<span className="text-sm text-mute"> / {data.processed_matches}</span></p><p className="text-xs text-mute mt-2">Partidos procesados aprovechables</p><p className="text-xs mt-4">{v.total_training} ejemplos históricos totales</p>{Object.entries(v.exclusions).map(([r,n])=><p key={r} className="text-[11px] text-amber mt-2">{n}: {REASONS[r]}</p>)}</article>)}</div>
+ <label className="block text-xs text-mute">Buscar partido<input className="field mt-2 max-w-md" value={query} onChange={e=>setQuery(e.target.value)} placeholder="Equipo o liga"/></label><div className="panel rounded-xl overflow-x-auto"><table className="w-full text-xs"><caption className="sr-only">Elegibilidad de partidos procesados por mercado</caption><thead className="bg-ink-950/5"><tr><th className="p-4 text-left">Partido</th>{Object.values(NAMES).map(n=><th className="p-4 text-left" key={n}>{n}</th>)}</tr></thead><tbody>{data.matches.filter(m=>`${m.match} ${m.league}`.toLowerCase().includes(query.toLowerCase())).map(m=><tr key={m.id} className="border-t border-ink-950/5"><th className="p-4 text-left min-w-[200px] font-normal"><Link className="text-led" to={`/match/${m.id}`}>{m.match} ↗</Link><p className="text-mute mt-1">{m.league} · {kickoffLabel(m.kickoff)}</p></th>{Object.entries(m.markets).map(([k,v])=><td className={`p-4 ${v==='usable'?'text-led':'text-mute'}`} key={k}>{REASONS[v]}</td>)}</tr>)}</tbody></table></div></div>;
+}

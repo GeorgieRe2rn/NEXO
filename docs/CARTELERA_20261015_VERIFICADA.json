@@ -1,0 +1,3073 @@
+{
+  "date": "2026-10-15",
+  "timezone": "America/Hermosillo",
+  "fetched_at": "2026-10-15T06:45:21.864970+00:00",
+  "items": [
+    {
+      "id": "soccer:401912792",
+      "provider_id": "401912792",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "AFC Champions League Two",
+        "slug": "afc.cup"
+      },
+      "kickoff": "2026-10-15T10:00Z",
+      "status": "SCHEDULED",
+      "home": "Gangwon FC",
+      "away": "Phnom Penh Crown",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": "https://www.espn.com/soccer/match/_/gameId/401912792/phnom-penh-crown-gangwon-fc",
+      "draftea_verified": false,
+      "draftea_reference": null
+    },
+    {
+      "id": "soccer:401912793",
+      "provider_id": "401912793",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "AFC Champions League Two",
+        "slug": "afc.cup"
+      },
+      "kickoff": "2026-10-15T10:00Z",
+      "status": "SCHEDULED",
+      "home": "Tai Po FC",
+      "away": "Lion City Sailors FC",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": "https://www.espn.com/soccer/match/_/gameId/401912793/lion-city-sailors-fc-tai-po-fc",
+      "draftea_verified": false,
+      "draftea_reference": null
+    },
+    {
+      "id": "soccer:401912788",
+      "provider_id": "401912788",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "AFC Champions League Two",
+        "slug": "afc.cup"
+      },
+      "kickoff": "2026-10-15T12:15Z",
+      "status": "SCHEDULED",
+      "home": "Kuching City",
+      "away": "Kitchee",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": "https://www.espn.com/soccer/match/_/gameId/401912788/kitchee-kuching-city",
+      "draftea_verified": false,
+      "draftea_reference": null
+    },
+    {
+      "id": "soccer:401912789",
+      "provider_id": "401912789",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "AFC Champions League Two",
+        "slug": "afc.cup"
+      },
+      "kickoff": "2026-10-15T12:15Z",
+      "status": "SCHEDULED",
+      "home": "BG Tampines Rovers FC",
+      "away": "Machida Zelvia",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": "https://www.espn.com/soccer/match/_/gameId/401912789/machida-zelvia-bg-tampines-rovers-fc",
+      "draftea_verified": false,
+      "draftea_reference": null
+    },
+    {
+      "id": "soccer:401912790",
+      "provider_id": "401912790",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "AFC Champions League Two",
+        "slug": "afc.cup"
+      },
+      "kickoff": "2026-10-15T12:15Z",
+      "status": "SCHEDULED",
+      "home": "Preah Khan Reach Svay Rieng FC",
+      "away": "Shanghai Shenhua",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": "https://www.espn.com/soccer/match/_/gameId/401912790/shanghai-shenhua-preah-khan-reach-svay-rieng-fc",
+      "draftea_verified": false,
+      "draftea_reference": null
+    },
+    {
+      "id": "soccer:401912791",
+      "provider_id": "401912791",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "AFC Champions League Two",
+        "slug": "afc.cup"
+      },
+      "kickoff": "2026-10-15T12:15Z",
+      "status": "SCHEDULED",
+      "home": "BG Pathum United",
+      "away": "Adelaide United",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": "https://www.espn.com/soccer/match/_/gameId/401912791/adelaide-united-bg-pathum-united",
+      "draftea_verified": false,
+      "draftea_reference": null
+    },
+    {
+      "id": "soccer:401900450",
+      "provider_id": "401900450",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "Saudi Pro League",
+        "slug": "ksa.1"
+      },
+      "kickoff": "2026-10-15T13:40Z",
+      "status": "SCHEDULED",
+      "home": "Al Faisaly",
+      "away": "Al Kholood",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": "https://www.espn.com/soccer/match/_/gameId/401900450/al-kholood-al-faisaly",
+      "draftea_verified": false,
+      "draftea_reference": {
+        "pick": "Al-Faisaly",
+        "american_odds": 234,
+        "implied_probability": 0.2994011976047904,
+        "date": "2026-10-15",
+        "source": "Capturas de Draftea aportadas por el usuario",
+        "live_verified": false,
+        "note": "Probabilidad implícita del precio, con margen de la casa; no es una probabilidad validada del modelo ni una apuesta segura."
+      }
+    },
+    {
+      "id": "soccer:401900902",
+      "provider_id": "401900902",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "Saudi Pro League",
+        "slug": "ksa.1"
+      },
+      "kickoff": "2026-10-15T14:50Z",
+      "status": "SCHEDULED",
+      "home": "Al Khaleej",
+      "away": "Al Fayha",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": "https://www.espn.com/soccer/match/_/gameId/401900902/al-fayha-al-khaleej",
+      "draftea_verified": false,
+      "draftea_reference": {
+        "pick": "Al Khaleej",
+        "american_odds": 112,
+        "implied_probability": 0.4716981132075472,
+        "date": "2026-10-15",
+        "source": "Capturas de Draftea aportadas por el usuario",
+        "live_verified": false,
+        "note": "Probabilidad implícita del precio, con margen de la casa; no es una probabilidad validada del modelo ni una apuesta segura."
+      }
+    },
+    {
+      "id": "soccer:401900904",
+      "provider_id": "401900904",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "Saudi Pro League",
+        "slug": "ksa.1"
+      },
+      "kickoff": "2026-10-15T15:15Z",
+      "status": "SCHEDULED",
+      "home": "Al Hazem",
+      "away": "Al Fateh",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": "https://www.espn.com/soccer/match/_/gameId/401900904/al-fateh-al-hazem",
+      "draftea_verified": false,
+      "draftea_reference": {
+        "pick": "Al Hazm",
+        "american_odds": 147,
+        "implied_probability": 0.4048582995951417,
+        "date": "2026-10-15",
+        "source": "Capturas de Draftea aportadas por el usuario",
+        "live_verified": false,
+        "note": "Probabilidad implícita del precio, con margen de la casa; no es una probabilidad validada del modelo ni una apuesta segura."
+      }
+    },
+    {
+      "id": "soccer:401888009",
+      "provider_id": "401888009",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "NCAA Women's Soccer",
+        "slug": "usa.ncaa.w.1"
+      },
+      "kickoff": "2026-10-15T16:00Z",
+      "status": "SCHEDULED",
+      "home": "Temple",
+      "away": "Memphis",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": null,
+      "draftea_verified": false,
+      "draftea_reference": null
+    },
+    {
+      "id": "soccer:401898528",
+      "provider_id": "401898528",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "NCAA Men's Soccer",
+        "slug": "usa.ncaa.m.1"
+      },
+      "kickoff": "2026-10-15T16:00Z",
+      "status": "SCHEDULED",
+      "home": "Eastern Illinois",
+      "away": "Incarnate Word",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": null,
+      "draftea_verified": false,
+      "draftea_reference": null
+    },
+    {
+      "id": "soccer:401929995",
+      "provider_id": "401929995",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "NCAA Men's Soccer",
+        "slug": "usa.ncaa.m.1"
+      },
+      "kickoff": "2026-10-15T16:00Z",
+      "status": "SCHEDULED",
+      "home": "Bradley",
+      "away": "Olivet",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": null,
+      "draftea_verified": false,
+      "draftea_reference": null
+    },
+    {
+      "id": "soccer:401915566",
+      "provider_id": "401915566",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "UEFA Europa League",
+        "slug": "uefa.europa"
+      },
+      "kickoff": "2026-10-15T16:45Z",
+      "status": "SCHEDULED",
+      "home": "Lyon",
+      "away": "Crystal Palace",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": "https://www.espn.com/soccer/match/_/gameId/401915566/crystal-palace-lyon",
+      "draftea_verified": false,
+      "draftea_reference": {
+        "pick": "Empate",
+        "american_odds": 264,
+        "implied_probability": 0.27472527472527475,
+        "date": "2026-10-15",
+        "source": "Capturas de Draftea aportadas por el usuario",
+        "live_verified": false,
+        "note": "Probabilidad implícita del precio, con margen de la casa; no es una probabilidad validada del modelo ni una apuesta segura."
+      }
+    },
+    {
+      "id": "soccer:401915567",
+      "provider_id": "401915567",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "UEFA Europa League",
+        "slug": "uefa.europa"
+      },
+      "kickoff": "2026-10-15T16:45Z",
+      "status": "SCHEDULED",
+      "home": "Sparta Prague",
+      "away": "Lillestrom",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": "https://www.espn.com/soccer/match/_/gameId/401915567/lillestrom-sparta-prague",
+      "draftea_verified": false,
+      "draftea_reference": {
+        "pick": "Lillestrom",
+        "american_odds": 694,
+        "implied_probability": 0.12594458438287154,
+        "date": "2026-10-15",
+        "source": "Capturas de Draftea aportadas por el usuario",
+        "live_verified": false,
+        "note": "Probabilidad implícita del precio, con margen de la casa; no es una probabilidad validada del modelo ni una apuesta segura."
+      }
+    },
+    {
+      "id": "soccer:401915568",
+      "provider_id": "401915568",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "UEFA Europa League",
+        "slug": "uefa.europa"
+      },
+      "kickoff": "2026-10-15T16:45Z",
+      "status": "SCHEDULED",
+      "home": "RB Salzburg",
+      "away": "AC Milan",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": "https://www.espn.com/soccer/match/_/gameId/401915568/ac-milan-rb-salzburg",
+      "draftea_verified": false,
+      "draftea_reference": {
+        "pick": "Milan",
+        "american_odds": 100,
+        "implied_probability": 0.5,
+        "date": "2026-10-15",
+        "source": "Capturas de Draftea aportadas por el usuario",
+        "live_verified": false,
+        "note": "Probabilidad implícita del precio, con margen de la casa; no es una probabilidad validada del modelo ni una apuesta segura."
+      }
+    },
+    {
+      "id": "soccer:401915573",
+      "provider_id": "401915573",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "UEFA Europa League",
+        "slug": "uefa.europa"
+      },
+      "kickoff": "2026-10-15T16:45Z",
+      "status": "SCHEDULED",
+      "home": "AZ Alkmaar",
+      "away": "Hapoel Be'er",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": "https://www.espn.com/soccer/match/_/gameId/401915573/hapoel-beer-az-alkmaar",
+      "draftea_verified": false,
+      "draftea_reference": {
+        "pick": "Hapoel Be'er Sheva",
+        "american_odds": 773,
+        "implied_probability": 0.1145475372279496,
+        "date": "2026-10-15",
+        "source": "Capturas de Draftea aportadas por el usuario",
+        "live_verified": false,
+        "note": "Probabilidad implícita del precio, con margen de la casa; no es una probabilidad validada del modelo ni una apuesta segura."
+      }
+    },
+    {
+      "id": "soccer:401915574",
+      "provider_id": "401915574",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "UEFA Europa League",
+        "slug": "uefa.europa"
+      },
+      "kickoff": "2026-10-15T16:45Z",
+      "status": "SCHEDULED",
+      "home": "Union St.-Gilloise",
+      "away": "Real Sociedad",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": "https://www.espn.com/soccer/match/_/gameId/401915574/real-sociedad-union-st-gilloise",
+      "draftea_verified": false,
+      "draftea_reference": {
+        "pick": "Real Sociedad",
+        "american_odds": 161,
+        "implied_probability": 0.3831417624521073,
+        "date": "2026-10-15",
+        "source": "Capturas de Draftea aportadas por el usuario",
+        "live_verified": false,
+        "note": "Probabilidad implícita del precio, con margen de la casa; no es una probabilidad validada del modelo ni una apuesta segura."
+      }
+    },
+    {
+      "id": "soccer:401915575",
+      "provider_id": "401915575",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "UEFA Europa League",
+        "slug": "uefa.europa"
+      },
+      "kickoff": "2026-10-15T16:45Z",
+      "status": "SCHEDULED",
+      "home": "Torreense",
+      "away": "Sunderland",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": "https://www.espn.com/soccer/match/_/gameId/401915575/sunderland-torreense",
+      "draftea_verified": false,
+      "draftea_reference": {
+        "pick": "Sunderland",
+        "american_odds": -303,
+        "implied_probability": 0.7518610421836228,
+        "date": "2026-10-15",
+        "source": "Capturas de Draftea aportadas por el usuario",
+        "live_verified": false,
+        "note": "Probabilidad implícita del precio, con margen de la casa; no es una probabilidad validada del modelo ni una apuesta segura."
+      }
+    },
+    {
+      "id": "soccer:401915576",
+      "provider_id": "401915576",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "UEFA Europa League",
+        "slug": "uefa.europa"
+      },
+      "kickoff": "2026-10-15T16:45Z",
+      "status": "SCHEDULED",
+      "home": "Lech Poznan",
+      "away": "Bayer Leverkusen",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": "https://www.espn.com/soccer/match/_/gameId/401915576/bayer-leverkusen-lech-poznan",
+      "draftea_verified": false,
+      "draftea_reference": {
+        "pick": "Bayer Leverkusen",
+        "american_odds": -175,
+        "implied_probability": 0.6363636363636364,
+        "date": "2026-10-15",
+        "source": "Capturas de Draftea aportadas por el usuario",
+        "live_verified": false,
+        "note": "Probabilidad implícita del precio, con margen de la casa; no es una probabilidad validada del modelo ni una apuesta segura."
+      }
+    },
+    {
+      "id": "soccer:401915577",
+      "provider_id": "401915577",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "UEFA Europa League",
+        "slug": "uefa.europa"
+      },
+      "kickoff": "2026-10-15T16:45Z",
+      "status": "SCHEDULED",
+      "home": "NK Celje",
+      "away": "Omonia Nicosia",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": "https://www.espn.com/soccer/match/_/gameId/401915577/omonia-nicosia-nk-celje",
+      "draftea_verified": false,
+      "draftea_reference": {
+        "pick": "Omonia Nicosia",
+        "american_odds": 151,
+        "implied_probability": 0.398406374501992,
+        "date": "2026-10-15",
+        "source": "Capturas de Draftea aportadas por el usuario",
+        "live_verified": false,
+        "note": "Probabilidad implícita del precio, con margen de la casa; no es una probabilidad validada del modelo ni una apuesta segura."
+      }
+    },
+    {
+      "id": "soccer:401915747",
+      "provider_id": "401915747",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "UEFA Conference League",
+        "slug": "uefa.europa.conf"
+      },
+      "kickoff": "2026-10-15T16:45Z",
+      "status": "SCHEDULED",
+      "home": "Riga FC",
+      "away": "Kairat Almaty",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": "https://www.espn.com/soccer/match/_/gameId/401915747/kairat-almaty-riga-fc",
+      "draftea_verified": false,
+      "draftea_reference": {
+        "pick": "Kairat",
+        "american_odds": 290,
+        "implied_probability": 0.2564102564102564,
+        "date": "2026-10-15",
+        "source": "Capturas de Draftea aportadas por el usuario",
+        "live_verified": false,
+        "note": "Probabilidad implícita del precio, con margen de la casa; no es una probabilidad validada del modelo ni una apuesta segura."
+      }
+    },
+    {
+      "id": "soccer:401915748",
+      "provider_id": "401915748",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "UEFA Conference League",
+        "slug": "uefa.europa.conf"
+      },
+      "kickoff": "2026-10-15T16:45Z",
+      "status": "SCHEDULED",
+      "home": "FC Lugano",
+      "away": "Red Star Belgrade",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": "https://www.espn.com/soccer/match/_/gameId/401915748/red-star-belgrade-fc-lugano",
+      "draftea_verified": false,
+      "draftea_reference": {
+        "pick": "Crvena Zvezda",
+        "american_odds": 174,
+        "implied_probability": 0.36496350364963503,
+        "date": "2026-10-15",
+        "source": "Capturas de Draftea aportadas por el usuario",
+        "live_verified": false,
+        "note": "Probabilidad implícita del precio, con margen de la casa; no es una probabilidad validada del modelo ni una apuesta segura."
+      }
+    },
+    {
+      "id": "soccer:401915854",
+      "provider_id": "401915854",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "UEFA Conference League",
+        "slug": "uefa.europa.conf"
+      },
+      "kickoff": "2026-10-15T16:45Z",
+      "status": "SCHEDULED",
+      "home": "CSU Craiova",
+      "away": "Getafe",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": "https://www.espn.com/soccer/match/_/gameId/401915854/getafe-csu-craiova",
+      "draftea_verified": false,
+      "draftea_reference": {
+        "pick": "Empate",
+        "american_odds": 216,
+        "implied_probability": 0.31645569620253167,
+        "date": "2026-10-15",
+        "source": "Capturas de Draftea aportadas por el usuario",
+        "live_verified": false,
+        "note": "Probabilidad implícita del precio, con margen de la casa; no es una probabilidad validada del modelo ni una apuesta segura."
+      }
+    },
+    {
+      "id": "soccer:401915855",
+      "provider_id": "401915855",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "UEFA Conference League",
+        "slug": "uefa.europa.conf"
+      },
+      "kickoff": "2026-10-15T16:45Z",
+      "status": "SCHEDULED",
+      "home": "CSKA Sofia",
+      "away": "AS Monaco",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": "https://www.espn.com/soccer/match/_/gameId/401915855/as-monaco-cska-sofia",
+      "draftea_verified": false,
+      "draftea_reference": {
+        "pick": "Monaco",
+        "american_odds": -204,
+        "implied_probability": 0.6710526315789473,
+        "date": "2026-10-15",
+        "source": "Capturas de Draftea aportadas por el usuario",
+        "live_verified": false,
+        "note": "Probabilidad implícita del precio, con margen de la casa; no es una probabilidad validada del modelo ni una apuesta segura."
+      }
+    },
+    {
+      "id": "soccer:401915856",
+      "provider_id": "401915856",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "UEFA Conference League",
+        "slug": "uefa.europa.conf"
+      },
+      "kickoff": "2026-10-15T16:45Z",
+      "status": "SCHEDULED",
+      "home": "Panathinaikos",
+      "away": "Borac Banja Luka",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": "https://www.espn.com/soccer/match/_/gameId/401915856/borac-banja-luka-panathinaikos",
+      "draftea_verified": false,
+      "draftea_reference": {
+        "pick": "Borac Banja Luka",
+        "american_odds": 1176,
+        "implied_probability": 0.07836990595611286,
+        "date": "2026-10-15",
+        "source": "Capturas de Draftea aportadas por el usuario",
+        "live_verified": false,
+        "note": "Probabilidad implícita del precio, con margen de la casa; no es una probabilidad validada del modelo ni una apuesta segura."
+      }
+    },
+    {
+      "id": "soccer:401915857",
+      "provider_id": "401915857",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "UEFA Conference League",
+        "slug": "uefa.europa.conf"
+      },
+      "kickoff": "2026-10-15T16:45Z",
+      "status": "SCHEDULED",
+      "home": "Mjällby AIF",
+      "away": "Inter D'Escaldes",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": "https://www.espn.com/soccer/match/_/gameId/401915857/inter-descaldes-mjallby-aif",
+      "draftea_verified": false,
+      "draftea_reference": {
+        "pick": "Empate",
+        "american_odds": 436,
+        "implied_probability": 0.1865671641791045,
+        "date": "2026-10-15",
+        "source": "Capturas de Draftea aportadas por el usuario",
+        "live_verified": false,
+        "note": "Probabilidad implícita del precio, con margen de la casa; no es una probabilidad validada del modelo ni una apuesta segura."
+      }
+    },
+    {
+      "id": "soccer:401915858",
+      "provider_id": "401915858",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "UEFA Conference League",
+        "slug": "uefa.europa.conf"
+      },
+      "kickoff": "2026-10-15T16:45Z",
+      "status": "SCHEDULED",
+      "home": "KuPS Kuopio",
+      "away": "Trabzonspor",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": "https://www.espn.com/soccer/match/_/gameId/401915858/trabzonspor-kups-kuopio",
+      "draftea_verified": false,
+      "draftea_reference": {
+        "pick": "KuPS",
+        "american_odds": 499,
+        "implied_probability": 0.1669449081803005,
+        "date": "2026-10-15",
+        "source": "Capturas de Draftea aportadas por el usuario",
+        "live_verified": false,
+        "note": "Probabilidad implícita del precio, con margen de la casa; no es una probabilidad validada del modelo ni una apuesta segura."
+      }
+    },
+    {
+      "id": "soccer:401915859",
+      "provider_id": "401915859",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "UEFA Conference League",
+        "slug": "uefa.europa.conf"
+      },
+      "kickoff": "2026-10-15T16:45Z",
+      "status": "SCHEDULED",
+      "home": "Egnatia",
+      "away": "FC Midtjylland",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": "https://www.espn.com/soccer/match/_/gameId/401915859/fc-midtjylland-egnatia",
+      "draftea_verified": false,
+      "draftea_reference": {
+        "pick": "Midtjylland",
+        "american_odds": -182,
+        "implied_probability": 0.6453900709219859,
+        "date": "2026-10-15",
+        "source": "Capturas de Draftea aportadas por el usuario",
+        "live_verified": false,
+        "note": "Probabilidad implícita del precio, con margen de la casa; no es una probabilidad validada del modelo ni una apuesta segura."
+      }
+    },
+    {
+      "id": "soccer:401915860",
+      "provider_id": "401915860",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "UEFA Conference League",
+        "slug": "uefa.europa.conf"
+      },
+      "kickoff": "2026-10-15T16:45Z",
+      "status": "SCHEDULED",
+      "home": "KAA Gent",
+      "away": "AGF",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": "https://www.espn.com/soccer/match/_/gameId/401915860/agf-kaa-gent",
+      "draftea_verified": false,
+      "draftea_reference": {
+        "pick": "AGF Aarhus",
+        "american_odds": 380,
+        "implied_probability": 0.20833333333333334,
+        "date": "2026-10-15",
+        "source": "Capturas de Draftea aportadas por el usuario",
+        "live_verified": false,
+        "note": "Probabilidad implícita del precio, con margen de la casa; no es una probabilidad validada del modelo ni una apuesta segura."
+      }
+    },
+    {
+      "id": "soccer:401915861",
+      "provider_id": "401915861",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "UEFA Conference League",
+        "slug": "uefa.europa.conf"
+      },
+      "kickoff": "2026-10-15T16:45Z",
+      "status": "SCHEDULED",
+      "home": "Hajduk Split",
+      "away": "Ajax Amsterdam",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": "https://www.espn.com/soccer/match/_/gameId/401915861/ajax-amsterdam-hajduk-split",
+      "draftea_verified": false,
+      "draftea_reference": {
+        "pick": "Ajax",
+        "american_odds": -159,
+        "implied_probability": 0.6138996138996139,
+        "date": "2026-10-15",
+        "source": "Capturas de Draftea aportadas por el usuario",
+        "live_verified": false,
+        "note": "Probabilidad implícita del precio, con margen de la casa; no es una probabilidad validada del modelo ni una apuesta segura."
+      }
+    },
+    {
+      "id": "soccer:401898562",
+      "provider_id": "401898562",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "NCAA Men's Soccer",
+        "slug": "usa.ncaa.m.1"
+      },
+      "kickoff": "2026-10-15T17:00Z",
+      "status": "SCHEDULED",
+      "home": "Western Illinois",
+      "away": "Houston Christian",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": null,
+      "draftea_verified": false,
+      "draftea_reference": null
+    },
+    {
+      "id": "soccer:401898755",
+      "provider_id": "401898755",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "NCAA Men's Soccer",
+        "slug": "usa.ncaa.m.1"
+      },
+      "kickoff": "2026-10-15T17:00Z",
+      "status": "SCHEDULED",
+      "home": "Fairleigh Dickinson",
+      "away": "Mercyhurst",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": null,
+      "draftea_verified": false,
+      "draftea_reference": null
+    },
+    {
+      "id": "soccer:401930196",
+      "provider_id": "401930196",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "NCAA Women's Soccer",
+        "slug": "usa.ncaa.w.1"
+      },
+      "kickoff": "2026-10-15T17:00Z",
+      "status": "SCHEDULED",
+      "home": "UMBC",
+      "away": "Binghamton",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": null,
+      "draftea_verified": false,
+      "draftea_reference": null
+    },
+    {
+      "id": "soccer:401879577",
+      "provider_id": "401879577",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "Guatemalan Liga Nacional",
+        "slug": "gua.1"
+      },
+      "kickoff": "2026-10-15T18:00Z",
+      "status": "SCHEDULED",
+      "home": "Xelajú MC",
+      "away": "CD Malacateco",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": "https://www.espn.com/soccer/match/_/gameId/401879577/cd-malacateco-xelaju-mc",
+      "draftea_verified": false,
+      "draftea_reference": null
+    },
+    {
+      "id": "soccer:401885540",
+      "provider_id": "401885540",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "NCAA Women's Soccer",
+        "slug": "usa.ncaa.w.1"
+      },
+      "kickoff": "2026-10-15T18:00Z",
+      "status": "SCHEDULED",
+      "home": "West Florida",
+      "away": "Jacksonville",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": null,
+      "draftea_verified": false,
+      "draftea_reference": null
+    },
+    {
+      "id": "soccer:401897680",
+      "provider_id": "401897680",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "NCAA Women's Soccer",
+        "slug": "usa.ncaa.w.1"
+      },
+      "kickoff": "2026-10-15T18:00Z",
+      "status": "SCHEDULED",
+      "home": "Northern Illinois",
+      "away": "Detroit Mercy",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": null,
+      "draftea_verified": false,
+      "draftea_reference": null
+    },
+    {
+      "id": "soccer:401901031",
+      "provider_id": "401901031",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "NCAA Women's Soccer",
+        "slug": "usa.ncaa.w.1"
+      },
+      "kickoff": "2026-10-15T18:00Z",
+      "status": "SCHEDULED",
+      "home": "Drake",
+      "away": "Murray State",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": null,
+      "draftea_verified": false,
+      "draftea_reference": null
+    },
+    {
+      "id": "soccer:401900529",
+      "provider_id": "401900529",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "NCAA Women's Soccer",
+        "slug": "usa.ncaa.w.1"
+      },
+      "kickoff": "2026-10-15T18:30Z",
+      "status": "SCHEDULED",
+      "home": "Eastern Illinois",
+      "away": "Southeast Missouri State",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": null,
+      "draftea_verified": false,
+      "draftea_reference": null
+    },
+    {
+      "id": "soccer:401880798",
+      "provider_id": "401880798",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "English League One",
+        "slug": "eng.3"
+      },
+      "kickoff": "2026-10-15T19:00Z",
+      "status": "SCHEDULED",
+      "home": "Mansfield Town",
+      "away": "Oxford United",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": "https://www.espn.com/soccer/match/_/gameId/401880798/oxford-united-mansfield-town",
+      "draftea_verified": false,
+      "draftea_reference": null
+    },
+    {
+      "id": "soccer:401889599",
+      "provider_id": "401889599",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "NCAA Women's Soccer",
+        "slug": "usa.ncaa.w.1"
+      },
+      "kickoff": "2026-10-15T19:00Z",
+      "status": "SCHEDULED",
+      "home": "VMI",
+      "away": "Western Carolina",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": null,
+      "draftea_verified": false,
+      "draftea_reference": null
+    },
+    {
+      "id": "soccer:401915549",
+      "provider_id": "401915549",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "UEFA Europa League",
+        "slug": "uefa.europa"
+      },
+      "kickoff": "2026-10-15T19:00Z",
+      "status": "SCHEDULED",
+      "home": "Dinamo Zagreb",
+      "away": "Anderlecht",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": "https://www.espn.com/soccer/match/_/gameId/401915549/anderlecht-dinamo-zagreb",
+      "draftea_verified": false,
+      "draftea_reference": {
+        "pick": "Anderlecht",
+        "american_odds": 257,
+        "implied_probability": 0.2801120448179272,
+        "date": "2026-10-15",
+        "source": "Capturas de Draftea aportadas por el usuario",
+        "live_verified": false,
+        "note": "Probabilidad implícita del precio, con margen de la casa; no es una probabilidad validada del modelo ni una apuesta segura."
+      }
+    },
+    {
+      "id": "soccer:401915550",
+      "provider_id": "401915550",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "UEFA Europa League",
+        "slug": "uefa.europa"
+      },
+      "kickoff": "2026-10-15T19:00Z",
+      "status": "SCHEDULED",
+      "home": "Marseille",
+      "away": "Olympiacos",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": "https://www.espn.com/soccer/match/_/gameId/401915550/olympiacos-marseille",
+      "draftea_verified": false,
+      "draftea_reference": {
+        "pick": "Marseille",
+        "american_odds": 132,
+        "implied_probability": 0.43103448275862066,
+        "date": "2026-10-15",
+        "source": "Capturas de Draftea aportadas por el usuario",
+        "live_verified": false,
+        "note": "Probabilidad implícita del precio, con margen de la casa; no es una probabilidad validada del modelo ni una apuesta segura."
+      }
+    },
+    {
+      "id": "soccer:401915560",
+      "provider_id": "401915560",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "UEFA Europa League",
+        "slug": "uefa.europa"
+      },
+      "kickoff": "2026-10-15T19:00Z",
+      "status": "SCHEDULED",
+      "home": "Celta Vigo",
+      "away": "Juventus",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": "https://www.espn.com/soccer/match/_/gameId/401915560/juventus-celta-vigo",
+      "draftea_verified": false,
+      "draftea_reference": {
+        "pick": "Juventus",
+        "american_odds": 120,
+        "implied_probability": 0.45454545454545453,
+        "date": "2026-10-15",
+        "source": "Capturas de Draftea aportadas por el usuario",
+        "live_verified": false,
+        "note": "Probabilidad implícita del precio, con margen de la casa; no es una probabilidad validada del modelo ni una apuesta segura."
+      }
+    },
+    {
+      "id": "soccer:401915561",
+      "provider_id": "401915561",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "UEFA Europa League",
+        "slug": "uefa.europa"
+      },
+      "kickoff": "2026-10-15T19:00Z",
+      "status": "SCHEDULED",
+      "home": "Jagiellonia Bialystok",
+      "away": "Ararat-Armenia",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": "https://www.espn.com/soccer/match/_/gameId/401915561/ararat-armenia-jagiellonia-bialystok",
+      "draftea_verified": false,
+      "draftea_reference": {
+        "pick": "Ararat-Armenia",
+        "american_odds": 608,
+        "implied_probability": 0.14124293785310735,
+        "date": "2026-10-15",
+        "source": "Capturas de Draftea aportadas por el usuario",
+        "live_verified": false,
+        "note": "Probabilidad implícita del precio, con margen de la casa; no es una probabilidad validada del modelo ni una apuesta segura."
+      }
+    },
+    {
+      "id": "soccer:401915562",
+      "provider_id": "401915562",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "UEFA Europa League",
+        "slug": "uefa.europa"
+      },
+      "kickoff": "2026-10-15T19:00Z",
+      "status": "SCHEDULED",
+      "home": "Benfica",
+      "away": "Celtic",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": "https://www.espn.com/soccer/match/_/gameId/401915562/celtic-benfica",
+      "draftea_verified": false,
+      "draftea_reference": {
+        "pick": "Celtic",
+        "american_odds": 909,
+        "implied_probability": 0.09910802775024777,
+        "date": "2026-10-15",
+        "source": "Capturas de Draftea aportadas por el usuario",
+        "live_verified": false,
+        "note": "Probabilidad implícita del precio, con margen de la casa; no es una probabilidad validada del modelo ni una apuesta segura."
+      }
+    },
+    {
+      "id": "soccer:401915563",
+      "provider_id": "401915563",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "UEFA Europa League",
+        "slug": "uefa.europa"
+      },
+      "kickoff": "2026-10-15T19:00Z",
+      "status": "SCHEDULED",
+      "home": "TSG Hoffenheim",
+      "away": "Besiktas",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": "https://www.espn.com/soccer/match/_/gameId/401915563/besiktas-tsg-hoffenheim",
+      "draftea_verified": false,
+      "draftea_reference": {
+        "pick": "Besiktas",
+        "american_odds": 241,
+        "implied_probability": 0.2932551319648094,
+        "date": "2026-10-15",
+        "source": "Capturas de Draftea aportadas por el usuario",
+        "live_verified": false,
+        "note": "Probabilidad implícita del precio, con margen de la casa; no es una probabilidad validada del modelo ni una apuesta segura."
+      }
+    },
+    {
+      "id": "soccer:401915564",
+      "provider_id": "401915564",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "UEFA Europa League",
+        "slug": "uefa.europa"
+      },
+      "kickoff": "2026-10-15T19:00Z",
+      "status": "SCHEDULED",
+      "home": "Ferencvaros",
+      "away": "Viktoria Plzen",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": "https://www.espn.com/soccer/match/_/gameId/401915564/viktoria-plzen-ferencvaros",
+      "draftea_verified": false,
+      "draftea_reference": {
+        "pick": "Viktoria Plzen",
+        "american_odds": 256,
+        "implied_probability": 0.2808988764044944,
+        "date": "2026-10-15",
+        "source": "Capturas de Draftea aportadas por el usuario",
+        "live_verified": false,
+        "note": "Probabilidad implícita del precio, con margen de la casa; no es una probabilidad validada del modelo ni una apuesta segura."
+      }
+    },
+    {
+      "id": "soccer:401915565",
+      "provider_id": "401915565",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "UEFA Europa League",
+        "slug": "uefa.europa"
+      },
+      "kickoff": "2026-10-15T19:00Z",
+      "status": "SCHEDULED",
+      "home": "NEC Nijmegen",
+      "away": "Levski Sofia",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": "https://www.espn.com/soccer/match/_/gameId/401915565/levski-sofia-nec-nijmegen",
+      "draftea_verified": false,
+      "draftea_reference": {
+        "pick": "Levski Sofia",
+        "american_odds": 286,
+        "implied_probability": 0.25906735751295334,
+        "date": "2026-10-15",
+        "source": "Capturas de Draftea aportadas por el usuario",
+        "live_verified": false,
+        "note": "Probabilidad implícita del precio, con margen de la casa; no es una probabilidad validada del modelo ni una apuesta segura."
+      }
+    },
+    {
+      "id": "soccer:401915571",
+      "provider_id": "401915571",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "UEFA Europa League",
+        "slug": "uefa.europa"
+      },
+      "kickoff": "2026-10-15T19:00Z",
+      "status": "SCHEDULED",
+      "home": "AFC Bournemouth",
+      "away": "SK Sturm Graz",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": "https://www.espn.com/soccer/match/_/gameId/401915571/sk-sturm-graz-afc-bournemouth",
+      "draftea_verified": false,
+      "draftea_reference": {
+        "pick": "Sturm Graz",
+        "american_odds": 1082,
+        "implied_probability": 0.08460236886632826,
+        "date": "2026-10-15",
+        "source": "Capturas de Draftea aportadas por el usuario",
+        "live_verified": false,
+        "note": "Probabilidad implícita del precio, con margen de la casa; no es una probabilidad validada del modelo ni una apuesta segura."
+      }
+    },
+    {
+      "id": "soccer:401915572",
+      "provider_id": "401915572",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "UEFA Europa League",
+        "slug": "uefa.europa"
+      },
+      "kickoff": "2026-10-15T19:00Z",
+      "status": "SCHEDULED",
+      "home": "Stade Rennais",
+      "away": "OFI Crete",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": "https://www.espn.com/soccer/match/_/gameId/401915572/ofi-crete-stade-rennais",
+      "draftea_verified": false,
+      "draftea_reference": {
+        "pick": "Rennes",
+        "american_odds": -476,
+        "implied_probability": 0.8263888888888888,
+        "date": "2026-10-15",
+        "source": "Capturas de Draftea aportadas por el usuario",
+        "live_verified": false,
+        "note": "Probabilidad implícita del precio, con margen de la casa; no es una probabilidad validada del modelo ni una apuesta segura."
+      }
+    },
+    {
+      "id": "soccer:401915746",
+      "provider_id": "401915746",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "UEFA Conference League",
+        "slug": "uefa.europa.conf"
+      },
+      "kickoff": "2026-10-15T19:00Z",
+      "status": "SCHEDULED",
+      "home": "Atalanta",
+      "away": "Pafos",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": "https://www.espn.com/soccer/match/_/gameId/401915746/pafos-atalanta",
+      "draftea_verified": false,
+      "draftea_reference": {
+        "pick": "Atalanta",
+        "american_odds": -294,
+        "implied_probability": 0.7461928934010152,
+        "date": "2026-10-15",
+        "source": "Capturas de Draftea aportadas por el usuario",
+        "live_verified": false,
+        "note": "Probabilidad implícita del precio, con margen de la casa; no es una probabilidad validada del modelo ni una apuesta segura."
+      }
+    },
+    {
+      "id": "soccer:401915847",
+      "provider_id": "401915847",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "UEFA Conference League",
+        "slug": "uefa.europa.conf"
+      },
+      "kickoff": "2026-10-15T19:00Z",
+      "status": "SCHEDULED",
+      "home": "SK Brann",
+      "away": "Lincoln Red Imps",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": "https://www.espn.com/soccer/match/_/gameId/401915847/lincoln-red-imps-sk-brann",
+      "draftea_verified": false,
+      "draftea_reference": {
+        "pick": "Lincoln Red Imps",
+        "american_odds": 1474,
+        "implied_probability": 0.06353240152477764,
+        "date": "2026-10-15",
+        "source": "Capturas de Draftea aportadas por el usuario",
+        "live_verified": false,
+        "note": "Probabilidad implícita del precio, con margen de la casa; no es una probabilidad validada del modelo ni una apuesta segura."
+      }
+    },
+    {
+      "id": "soccer:401915848",
+      "provider_id": "401915848",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "UEFA Conference League",
+        "slug": "uefa.europa.conf"
+      },
+      "kickoff": "2026-10-15T19:00Z",
+      "status": "SCHEDULED",
+      "home": "SC Freiburg",
+      "away": "Jablonec",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": "https://www.espn.com/soccer/match/_/gameId/401915848/jablonec-sc-freiburg",
+      "draftea_verified": false,
+      "draftea_reference": {
+        "pick": "FK Jablonec",
+        "american_odds": 1098,
+        "implied_probability": 0.08347245409015025,
+        "date": "2026-10-15",
+        "source": "Capturas de Draftea aportadas por el usuario",
+        "live_verified": false,
+        "note": "Probabilidad implícita del precio, con margen de la casa; no es una probabilidad validada del modelo ni una apuesta segura."
+      }
+    },
+    {
+      "id": "soccer:401915849",
+      "provider_id": "401915849",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "UEFA Conference League",
+        "slug": "uefa.europa.conf"
+      },
+      "kickoff": "2026-10-15T19:00Z",
+      "status": "SCHEDULED",
+      "home": "Sint-Truidense",
+      "away": "Iberia 1999",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": "https://www.espn.com/soccer/match/_/gameId/401915849/iberia-1999-sint-truidense",
+      "draftea_verified": false,
+      "draftea_reference": {
+        "pick": "Iberia 1999",
+        "american_odds": 962,
+        "implied_probability": 0.09416195856873823,
+        "date": "2026-10-15",
+        "source": "Capturas de Draftea aportadas por el usuario",
+        "live_verified": false,
+        "note": "Probabilidad implícita del precio, con margen de la casa; no es una probabilidad validada del modelo ni una apuesta segura."
+      }
+    },
+    {
+      "id": "soccer:401915850",
+      "provider_id": "401915850",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "UEFA Conference League",
+        "slug": "uefa.europa.conf"
+      },
+      "kickoff": "2026-10-15T19:00Z",
+      "status": "SCHEDULED",
+      "home": "Heart of Midlothian",
+      "away": "FC Nordsjælland",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": "https://www.espn.com/soccer/match/_/gameId/401915850/fc-nordsjælland-heart-of-midlothian",
+      "draftea_verified": false,
+      "draftea_reference": {
+        "pick": "FC Nordsjaelland",
+        "american_odds": 126,
+        "implied_probability": 0.4424778761061947,
+        "date": "2026-10-15",
+        "source": "Capturas de Draftea aportadas por el usuario",
+        "live_verified": false,
+        "note": "Probabilidad implícita del precio, con margen de la casa; no es una probabilidad validada del modelo ni una apuesta segura."
+      }
+    },
+    {
+      "id": "soccer:401915851",
+      "provider_id": "401915851",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "UEFA Conference League",
+        "slug": "uefa.europa.conf"
+      },
+      "kickoff": "2026-10-15T19:00Z",
+      "status": "SCHEDULED",
+      "home": "FC Twente",
+      "away": "FC Thun",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": "https://www.espn.com/soccer/match/_/gameId/401915851/fc-thun-fc-twente",
+      "draftea_verified": false,
+      "draftea_reference": {
+        "pick": "FC Thun",
+        "american_odds": 962,
+        "implied_probability": 0.09416195856873823,
+        "date": "2026-10-15",
+        "source": "Capturas de Draftea aportadas por el usuario",
+        "live_verified": false,
+        "note": "Probabilidad implícita del precio, con margen de la casa; no es una probabilidad validada del modelo ni una apuesta segura."
+      }
+    },
+    {
+      "id": "soccer:401915852",
+      "provider_id": "401915852",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "UEFA Conference League",
+        "slug": "uefa.europa.conf"
+      },
+      "kickoff": "2026-10-15T19:00Z",
+      "status": "SCHEDULED",
+      "home": "F.C. København",
+      "away": "Braga",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": "https://www.espn.com/soccer/match/_/gameId/401915852/braga-fc-københavn",
+      "draftea_verified": false,
+      "draftea_reference": {
+        "pick": "Sporting Braga",
+        "american_odds": 196,
+        "implied_probability": 0.33783783783783783,
+        "date": "2026-10-15",
+        "source": "Capturas de Draftea aportadas por el usuario",
+        "live_verified": false,
+        "note": "Probabilidad implícita del precio, con margen de la casa; no es una probabilidad validada del modelo ni una apuesta segura."
+      }
+    },
+    {
+      "id": "soccer:401915853",
+      "provider_id": "401915853",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "UEFA Conference League",
+        "slug": "uefa.europa.conf"
+      },
+      "kickoff": "2026-10-15T19:00Z",
+      "status": "SCHEDULED",
+      "home": "Brighton & Hove Albion",
+      "away": "Kauno Zalgiris",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": "https://www.espn.com/soccer/match/_/gameId/401915853/kauno-zalgiris-brighton-hove-albion",
+      "draftea_verified": false,
+      "draftea_reference": {
+        "pick": "Kauno Zalgiris",
+        "american_odds": 4029,
+        "implied_probability": 0.024218939210462583,
+        "date": "2026-10-15",
+        "source": "Capturas de Draftea aportadas por el usuario",
+        "live_verified": false,
+        "note": "Probabilidad implícita del precio, con margen de la casa; no es una probabilidad validada del modelo ni una apuesta segura."
+      }
+    },
+    {
+      "id": "soccer:401900681",
+      "provider_id": "401900681",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "NCAA Women's Soccer",
+        "slug": "usa.ncaa.w.1"
+      },
+      "kickoff": "2026-10-15T19:30Z",
+      "status": "SCHEDULED",
+      "home": "Western Illinois",
+      "away": "SIU Edwardsville",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": null,
+      "draftea_verified": false,
+      "draftea_reference": null
+    },
+    {
+      "id": "soccer:401897212",
+      "provider_id": "401897212",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "NCAA Women's Soccer",
+        "slug": "usa.ncaa.w.1"
+      },
+      "kickoff": "2026-10-15T20:00Z",
+      "status": "SCHEDULED",
+      "home": "Portland State",
+      "away": "Weber State",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": null,
+      "draftea_verified": false,
+      "draftea_reference": null
+    },
+    {
+      "id": "soccer:401898589",
+      "provider_id": "401898589",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "NCAA Men's Soccer",
+        "slug": "usa.ncaa.m.1"
+      },
+      "kickoff": "2026-10-15T20:00Z",
+      "status": "SCHEDULED",
+      "home": "SIU Edwardsville",
+      "away": "Lindenwood",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": null,
+      "draftea_verified": false,
+      "draftea_reference": null
+    },
+    {
+      "id": "soccer:401900177",
+      "provider_id": "401900177",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "NCAA Women's Soccer",
+        "slug": "usa.ncaa.w.1"
+      },
+      "kickoff": "2026-10-15T20:00Z",
+      "status": "SCHEDULED",
+      "home": "St. Thomas",
+      "away": "South Dakota State",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": null,
+      "draftea_verified": false,
+      "draftea_reference": null
+    },
+    {
+      "id": "soccer:401886773",
+      "provider_id": "401886773",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "NCAA Women's Soccer",
+        "slug": "usa.ncaa.w.1"
+      },
+      "kickoff": "2026-10-15T20:30Z",
+      "status": "SCHEDULED",
+      "home": "Eastern Michigan",
+      "away": "Western Michigan",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": null,
+      "draftea_verified": false,
+      "draftea_reference": null
+    },
+    {
+      "id": "soccer:401879580",
+      "provider_id": "401879580",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "Guatemalan Liga Nacional",
+        "slug": "gua.1"
+      },
+      "kickoff": "2026-10-15T21:00Z",
+      "status": "SCHEDULED",
+      "home": "Cobán Imperial",
+      "away": "Municipal",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": "https://www.espn.com/soccer/match/_/gameId/401879580/municipal-coban-imperial",
+      "draftea_verified": false,
+      "draftea_reference": null
+    },
+    {
+      "id": "soccer:401890314",
+      "provider_id": "401890314",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "NCAA Women's Soccer",
+        "slug": "usa.ncaa.w.1"
+      },
+      "kickoff": "2026-10-15T21:00Z",
+      "status": "SCHEDULED",
+      "home": "Montana",
+      "away": "Idaho State",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": null,
+      "draftea_verified": false,
+      "draftea_reference": null
+    },
+    {
+      "id": "soccer:401897219",
+      "provider_id": "401897219",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "NCAA Women's Soccer",
+        "slug": "usa.ncaa.w.1"
+      },
+      "kickoff": "2026-10-15T21:00Z",
+      "status": "SCHEDULED",
+      "home": "Southern Utah",
+      "away": "Northern Arizona",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": null,
+      "draftea_verified": false,
+      "draftea_reference": null
+    },
+    {
+      "id": "soccer:401897668",
+      "provider_id": "401897668",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "NCAA Women's Soccer",
+        "slug": "usa.ncaa.w.1"
+      },
+      "kickoff": "2026-10-15T21:00Z",
+      "status": "SCHEDULED",
+      "home": "Northern Kentucky",
+      "away": "Cleveland State",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": null,
+      "draftea_verified": false,
+      "draftea_reference": null
+    },
+    {
+      "id": "soccer:401901009",
+      "provider_id": "401901009",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "NCAA Women's Soccer",
+        "slug": "usa.ncaa.w.1"
+      },
+      "kickoff": "2026-10-15T21:00Z",
+      "status": "SCHEDULED",
+      "home": "Wyoming",
+      "away": "New Mexico",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": null,
+      "draftea_verified": false,
+      "draftea_reference": null
+    },
+    {
+      "id": "soccer:401901099",
+      "provider_id": "401901099",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "NCAA Women's Soccer",
+        "slug": "usa.ncaa.w.1"
+      },
+      "kickoff": "2026-10-15T21:00Z",
+      "status": "SCHEDULED",
+      "home": "IU Indianapolis",
+      "away": "Oakland",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": null,
+      "draftea_verified": false,
+      "draftea_reference": null
+    },
+    {
+      "id": "soccer:401900539",
+      "provider_id": "401900539",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "NCAA Women's Soccer",
+        "slug": "usa.ncaa.w.1"
+      },
+      "kickoff": "2026-10-15T21:30Z",
+      "status": "SCHEDULED",
+      "home": "Lindenwood",
+      "away": "Southern Indiana",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": null,
+      "draftea_verified": false,
+      "draftea_reference": null
+    },
+    {
+      "id": "soccer:401886724",
+      "provider_id": "401886724",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "NCAA Women's Soccer",
+        "slug": "usa.ncaa.w.1"
+      },
+      "kickoff": "2026-10-15T22:00Z",
+      "status": "SCHEDULED",
+      "home": "Buffalo",
+      "away": "Massachusetts",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": null,
+      "draftea_verified": false,
+      "draftea_reference": null
+    },
+    {
+      "id": "soccer:401887091",
+      "provider_id": "401887091",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "NCAA Women's Soccer",
+        "slug": "usa.ncaa.w.1"
+      },
+      "kickoff": "2026-10-15T22:00Z",
+      "status": "SCHEDULED",
+      "home": "Wake Forest",
+      "away": "Florida State",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": null,
+      "draftea_verified": false,
+      "draftea_reference": null
+    },
+    {
+      "id": "soccer:401889493",
+      "provider_id": "401889493",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "NCAA Women's Soccer",
+        "slug": "usa.ncaa.w.1"
+      },
+      "kickoff": "2026-10-15T22:00Z",
+      "status": "SCHEDULED",
+      "home": "Chattanooga",
+      "away": "Samford",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": null,
+      "draftea_verified": false,
+      "draftea_reference": null
+    },
+    {
+      "id": "soccer:401889525",
+      "provider_id": "401889525",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "NCAA Women's Soccer",
+        "slug": "usa.ncaa.w.1"
+      },
+      "kickoff": "2026-10-15T22:00Z",
+      "status": "SCHEDULED",
+      "home": "Furman",
+      "away": "UNC Greensboro",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": null,
+      "draftea_verified": false,
+      "draftea_reference": null
+    },
+    {
+      "id": "soccer:401889541",
+      "provider_id": "401889541",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "NCAA Women's Soccer",
+        "slug": "usa.ncaa.w.1"
+      },
+      "kickoff": "2026-10-15T22:00Z",
+      "status": "SCHEDULED",
+      "home": "Wofford",
+      "away": "Mercer",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": null,
+      "draftea_verified": false,
+      "draftea_reference": null
+    },
+    {
+      "id": "soccer:401889799",
+      "provider_id": "401889799",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "NCAA Women's Soccer",
+        "slug": "usa.ncaa.w.1"
+      },
+      "kickoff": "2026-10-15T22:00Z",
+      "status": "SCHEDULED",
+      "home": "NC State",
+      "away": "Syracuse",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": null,
+      "draftea_verified": false,
+      "draftea_reference": null
+    },
+    {
+      "id": "soccer:401890343",
+      "provider_id": "401890343",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "NCAA Women's Soccer",
+        "slug": "usa.ncaa.w.1"
+      },
+      "kickoff": "2026-10-15T22:00Z",
+      "status": "SCHEDULED",
+      "home": "Coastal Carolina",
+      "away": "Georgia State",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": null,
+      "draftea_verified": false,
+      "draftea_reference": null
+    },
+    {
+      "id": "soccer:401898699",
+      "provider_id": "401898699",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "NCAA Men's Soccer",
+        "slug": "usa.ncaa.m.1"
+      },
+      "kickoff": "2026-10-15T22:00Z",
+      "status": "SCHEDULED",
+      "home": "Southern Indiana",
+      "away": "UT Rio Grande Valley",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": null,
+      "draftea_verified": false,
+      "draftea_reference": null
+    },
+    {
+      "id": "soccer:401900044",
+      "provider_id": "401900044",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "NCAA Women's Soccer",
+        "slug": "usa.ncaa.w.1"
+      },
+      "kickoff": "2026-10-15T22:00Z",
+      "status": "SCHEDULED",
+      "home": "Central Connecticut",
+      "away": "New Haven",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": null,
+      "draftea_verified": false,
+      "draftea_reference": null
+    },
+    {
+      "id": "soccer:401900063",
+      "provider_id": "401900063",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "NCAA Women's Soccer",
+        "slug": "usa.ncaa.w.1"
+      },
+      "kickoff": "2026-10-15T22:00Z",
+      "status": "SCHEDULED",
+      "home": "Fairleigh Dickinson",
+      "away": "Wagner",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": null,
+      "draftea_verified": false,
+      "draftea_reference": null
+    },
+    {
+      "id": "soccer:401886894",
+      "provider_id": "401886894",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "NCAA Women's Soccer",
+        "slug": "usa.ncaa.w.1"
+      },
+      "kickoff": "2026-10-15T22:30Z",
+      "status": "SCHEDULED",
+      "home": "Miami (OH)",
+      "away": "Ohio",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": null,
+      "draftea_verified": false,
+      "draftea_reference": null
+    },
+    {
+      "id": "soccer:401887732",
+      "provider_id": "401887732",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "NCAA Men's Soccer",
+        "slug": "usa.ncaa.m.1"
+      },
+      "kickoff": "2026-10-15T22:30Z",
+      "status": "SCHEDULED",
+      "home": "Xavier",
+      "away": "Creighton",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": null,
+      "draftea_verified": false,
+      "draftea_reference": null
+    },
+    {
+      "id": "soccer:401841622",
+      "provider_id": "401841622",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "Argentine Liga Profesional de Fútbol",
+        "slug": "arg.1"
+      },
+      "kickoff": "2026-10-15T23:00Z",
+      "status": "SCHEDULED",
+      "home": "Huracán",
+      "away": "Gimnasia La Plata",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": "https://www.espn.com/soccer/match/_/gameId/401841622/gimnasia-la-plata-huracan",
+      "draftea_verified": false,
+      "draftea_reference": {
+        "pick": "Huracan",
+        "american_odds": 151,
+        "implied_probability": 0.398406374501992,
+        "date": "2026-10-15",
+        "source": "Capturas de Draftea aportadas por el usuario",
+        "live_verified": false,
+        "note": "Probabilidad implícita del precio, con margen de la casa; no es una probabilidad validada del modelo ni una apuesta segura."
+      }
+    },
+    {
+      "id": "soccer:401883593",
+      "provider_id": "401883593",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "NCAA Women's Soccer",
+        "slug": "usa.ncaa.w.1"
+      },
+      "kickoff": "2026-10-15T23:00Z",
+      "status": "SCHEDULED",
+      "home": "Alabama",
+      "away": "Georgia",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": null,
+      "draftea_verified": false,
+      "draftea_reference": null
+    },
+    {
+      "id": "soccer:401885776",
+      "provider_id": "401885776",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "NCAA Women's Soccer",
+        "slug": "usa.ncaa.w.1"
+      },
+      "kickoff": "2026-10-15T23:00Z",
+      "status": "SCHEDULED",
+      "home": "Tennessee",
+      "away": "Arkansas",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": null,
+      "draftea_verified": false,
+      "draftea_reference": null
+    },
+    {
+      "id": "soccer:401885821",
+      "provider_id": "401885821",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "NCAA Women's Soccer",
+        "slug": "usa.ncaa.w.1"
+      },
+      "kickoff": "2026-10-15T23:00Z",
+      "status": "SCHEDULED",
+      "home": "Vanderbilt",
+      "away": "Florida",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": null,
+      "draftea_verified": false,
+      "draftea_reference": null
+    },
+    {
+      "id": "soccer:401885875",
+      "provider_id": "401885875",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "NCAA Women's Soccer",
+        "slug": "usa.ncaa.w.1"
+      },
+      "kickoff": "2026-10-15T23:00Z",
+      "status": "SCHEDULED",
+      "home": "Mississippi State",
+      "away": "Oklahoma",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": null,
+      "draftea_verified": false,
+      "draftea_reference": null
+    },
+    {
+      "id": "soccer:401885929",
+      "provider_id": "401885929",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "NCAA Women's Soccer",
+        "slug": "usa.ncaa.w.1"
+      },
+      "kickoff": "2026-10-15T23:00Z",
+      "status": "SCHEDULED",
+      "home": "Ole Miss",
+      "away": "Missouri",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": null,
+      "draftea_verified": false,
+      "draftea_reference": null
+    },
+    {
+      "id": "soccer:401886669",
+      "provider_id": "401886669",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "NCAA Women's Soccer",
+        "slug": "usa.ncaa.w.1"
+      },
+      "kickoff": "2026-10-15T23:00Z",
+      "status": "SCHEDULED",
+      "home": "Central Michigan",
+      "away": "Akron",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": null,
+      "draftea_verified": false,
+      "draftea_reference": null
+    },
+    {
+      "id": "soccer:401886692",
+      "provider_id": "401886692",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "NCAA Women's Soccer",
+        "slug": "usa.ncaa.w.1"
+      },
+      "kickoff": "2026-10-15T23:00Z",
+      "status": "SCHEDULED",
+      "home": "Kent State",
+      "away": "Ball State",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": null,
+      "draftea_verified": false,
+      "draftea_reference": null
+    },
+    {
+      "id": "soccer:401886706",
+      "provider_id": "401886706",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "NCAA Women's Soccer",
+        "slug": "usa.ncaa.w.1"
+      },
+      "kickoff": "2026-10-15T23:00Z",
+      "status": "SCHEDULED",
+      "home": "Bowling Green",
+      "away": "Toledo",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": null,
+      "draftea_verified": false,
+      "draftea_reference": null
+    },
+    {
+      "id": "soccer:401887814",
+      "provider_id": "401887814",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "NCAA Women's Soccer",
+        "slug": "usa.ncaa.w.1"
+      },
+      "kickoff": "2026-10-15T23:00Z",
+      "status": "SCHEDULED",
+      "home": "Charlotte",
+      "away": "South Florida",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": null,
+      "draftea_verified": false,
+      "draftea_reference": null
+    },
+    {
+      "id": "soccer:401887978",
+      "provider_id": "401887978",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "NCAA Women's Soccer",
+        "slug": "usa.ncaa.w.1"
+      },
+      "kickoff": "2026-10-15T23:00Z",
+      "status": "SCHEDULED",
+      "home": "Florida Atlantic",
+      "away": "East Carolina",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": null,
+      "draftea_verified": false,
+      "draftea_reference": null
+    },
+    {
+      "id": "soccer:401889809",
+      "provider_id": "401889809",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "NCAA Women's Soccer",
+        "slug": "usa.ncaa.w.1"
+      },
+      "kickoff": "2026-10-15T23:00Z",
+      "status": "SCHEDULED",
+      "home": "Notre Dame",
+      "away": "Pittsburgh",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": null,
+      "draftea_verified": false,
+      "draftea_reference": null
+    },
+    {
+      "id": "soccer:401889916",
+      "provider_id": "401889916",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "NCAA Women's Soccer",
+        "slug": "usa.ncaa.w.1"
+      },
+      "kickoff": "2026-10-15T23:00Z",
+      "status": "SCHEDULED",
+      "home": "Tarleton State",
+      "away": "Eastern Kentucky",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": null,
+      "draftea_verified": false,
+      "draftea_reference": null
+    },
+    {
+      "id": "soccer:401891348",
+      "provider_id": "401891348",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "NCAA Women's Soccer",
+        "slug": "usa.ncaa.w.1"
+      },
+      "kickoff": "2026-10-15T23:00Z",
+      "status": "SCHEDULED",
+      "home": "James Madison",
+      "away": "Louisiana Tech",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": null,
+      "draftea_verified": false,
+      "draftea_reference": null
+    },
+    {
+      "id": "soccer:401896611",
+      "provider_id": "401896611",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "NCAA Women's Soccer",
+        "slug": "usa.ncaa.w.1"
+      },
+      "kickoff": "2026-10-15T23:00Z",
+      "status": "SCHEDULED",
+      "home": "Kansas City",
+      "away": "North Dakota",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": null,
+      "draftea_verified": false,
+      "draftea_reference": null
+    },
+    {
+      "id": "soccer:401896622",
+      "provider_id": "401896622",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "NCAA Women's Soccer",
+        "slug": "usa.ncaa.w.1"
+      },
+      "kickoff": "2026-10-15T23:00Z",
+      "status": "SCHEDULED",
+      "home": "Illinois State",
+      "away": "Belmont",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": null,
+      "draftea_verified": false,
+      "draftea_reference": null
+    },
+    {
+      "id": "soccer:401897725",
+      "provider_id": "401897725",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "NCAA Women's Soccer",
+        "slug": "usa.ncaa.w.1"
+      },
+      "kickoff": "2026-10-15T23:00Z",
+      "status": "SCHEDULED",
+      "home": "Green Bay",
+      "away": "Robert Morris",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": null,
+      "draftea_verified": false,
+      "draftea_reference": null
+    },
+    {
+      "id": "soccer:401900670",
+      "provider_id": "401900670",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "NCAA Women's Soccer",
+        "slug": "usa.ncaa.w.1"
+      },
+      "kickoff": "2026-10-15T23:00Z",
+      "status": "SCHEDULED",
+      "home": "UT Martin",
+      "away": "Morehead State",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": null,
+      "draftea_verified": false,
+      "draftea_reference": null
+    },
+    {
+      "id": "soccer:401901039",
+      "provider_id": "401901039",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "NCAA Women's Soccer",
+        "slug": "usa.ncaa.w.1"
+      },
+      "kickoff": "2026-10-15T23:00Z",
+      "status": "SCHEDULED",
+      "home": "Evansville",
+      "away": "Northern Iowa",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": null,
+      "draftea_verified": false,
+      "draftea_reference": null
+    },
+    {
+      "id": "soccer:401901057",
+      "provider_id": "401901057",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "NCAA Women's Soccer",
+        "slug": "usa.ncaa.w.1"
+      },
+      "kickoff": "2026-10-15T23:00Z",
+      "status": "SCHEDULED",
+      "home": "UIC",
+      "away": "Indiana State",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": null,
+      "draftea_verified": false,
+      "draftea_reference": null
+    },
+    {
+      "id": "soccer:401901109",
+      "provider_id": "401901109",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "NCAA Women's Soccer",
+        "slug": "usa.ncaa.w.1"
+      },
+      "kickoff": "2026-10-15T23:00Z",
+      "status": "SCHEDULED",
+      "home": "Milwaukee",
+      "away": "Youngstown State",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": null,
+      "draftea_verified": false,
+      "draftea_reference": null
+    },
+    {
+      "id": "soccer:401901138",
+      "provider_id": "401901138",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "NCAA Women's Soccer",
+        "slug": "usa.ncaa.w.1"
+      },
+      "kickoff": "2026-10-15T23:00Z",
+      "status": "SCHEDULED",
+      "home": "Wright State",
+      "away": "Purdue Fort Wayne",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": null,
+      "draftea_verified": false,
+      "draftea_reference": null
+    },
+    {
+      "id": "soccer:401901432",
+      "provider_id": "401901432",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "NCAA Women's Soccer",
+        "slug": "usa.ncaa.w.1"
+      },
+      "kickoff": "2026-10-15T23:00Z",
+      "status": "SCHEDULED",
+      "home": "Rice",
+      "away": "North Texas",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": null,
+      "draftea_verified": false,
+      "draftea_reference": null
+    },
+    {
+      "id": "soccer:401901509",
+      "provider_id": "401901509",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "NCAA Women's Soccer",
+        "slug": "usa.ncaa.w.1"
+      },
+      "kickoff": "2026-10-15T23:00Z",
+      "status": "SCHEDULED",
+      "home": "Little Rock",
+      "away": "North Alabama",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": null,
+      "draftea_verified": false,
+      "draftea_reference": null
+    },
+    {
+      "id": "soccer:401929276",
+      "provider_id": "401929276",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "Copa Colombia",
+        "slug": "col.copa"
+      },
+      "kickoff": "2026-10-15T23:00Z",
+      "status": "SCHEDULED",
+      "home": "Internacional de Bogotá",
+      "away": "Llaneros FC",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": "https://www.espn.com/soccer/match/_/gameId/401929276/llaneros-fc-internacional-de-bogota",
+      "draftea_verified": false,
+      "draftea_reference": null
+    },
+    {
+      "id": "soccer:401926753",
+      "provider_id": "401926753",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "Honduran Liga Nacional",
+        "slug": "hon.1"
+      },
+      "kickoff": "2026-10-15T23:15Z",
+      "status": "SCHEDULED",
+      "home": "Club Deportivo Marathón",
+      "away": "Olancho FC",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": "https://www.espn.com/soccer/match/_/gameId/401926753/olancho-fc-club-deportivo-marathon",
+      "draftea_verified": false,
+      "draftea_reference": null
+    },
+    {
+      "id": "soccer:401885791",
+      "provider_id": "401885791",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "NCAA Women's Soccer",
+        "slug": "usa.ncaa.w.1"
+      },
+      "kickoff": "2026-10-15T23:30Z",
+      "status": "SCHEDULED",
+      "home": "Auburn",
+      "away": "Kentucky",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": null,
+      "draftea_verified": false,
+      "draftea_reference": null
+    },
+    {
+      "id": "soccer:401900315",
+      "provider_id": "401900315",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "NCAA Women's Soccer",
+        "slug": "usa.ncaa.w.1"
+      },
+      "kickoff": "2026-10-15T23:30Z",
+      "status": "SCHEDULED",
+      "home": "UT Rio Grande Valley",
+      "away": "Nicholls",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": null,
+      "draftea_verified": false,
+      "draftea_reference": null
+    },
+    {
+      "id": "soccer:401885861",
+      "provider_id": "401885861",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "NCAA Women's Soccer",
+        "slug": "usa.ncaa.w.1"
+      },
+      "kickoff": "2026-10-16T00:00Z",
+      "status": "SCHEDULED",
+      "home": "Texas",
+      "away": "LSU",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": null,
+      "draftea_verified": false,
+      "draftea_reference": null
+    },
+    {
+      "id": "soccer:401885981",
+      "provider_id": "401885981",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "NCAA Women's Soccer",
+        "slug": "usa.ncaa.w.1"
+      },
+      "kickoff": "2026-10-16T00:00Z",
+      "status": "SCHEDULED",
+      "home": "Texas A&M",
+      "away": "South Carolina",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": null,
+      "draftea_verified": false,
+      "draftea_reference": null
+    },
+    {
+      "id": "soccer:401888042",
+      "provider_id": "401888042",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "NCAA Women's Soccer",
+        "slug": "usa.ncaa.w.1"
+      },
+      "kickoff": "2026-10-16T00:00Z",
+      "status": "SCHEDULED",
+      "home": "UTSA",
+      "away": "Tulsa",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": null,
+      "draftea_verified": false,
+      "draftea_reference": null
+    },
+    {
+      "id": "soccer:401889566",
+      "provider_id": "401889566",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "NCAA Women's Soccer",
+        "slug": "usa.ncaa.w.1"
+      },
+      "kickoff": "2026-10-16T00:00Z",
+      "status": "SCHEDULED",
+      "home": "Tennessee Tech",
+      "away": "The Citadel",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": null,
+      "draftea_verified": false,
+      "draftea_reference": null
+    },
+    {
+      "id": "soccer:401889628",
+      "provider_id": "401889628",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "NCAA Women's Soccer",
+        "slug": "usa.ncaa.w.1"
+      },
+      "kickoff": "2026-10-16T00:00Z",
+      "status": "SCHEDULED",
+      "home": "East Texas A&M",
+      "away": "Texas A&M-Corpus Christi",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": null,
+      "draftea_verified": false,
+      "draftea_reference": null
+    },
+    {
+      "id": "soccer:401889667",
+      "provider_id": "401889667",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "NCAA Women's Soccer",
+        "slug": "usa.ncaa.w.1"
+      },
+      "kickoff": "2026-10-16T00:00Z",
+      "status": "SCHEDULED",
+      "home": "Northwestern State",
+      "away": "Houston Christian",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": null,
+      "draftea_verified": false,
+      "draftea_reference": null
+    },
+    {
+      "id": "soccer:401889683",
+      "provider_id": "401889683",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "NCAA Women's Soccer",
+        "slug": "usa.ncaa.w.1"
+      },
+      "kickoff": "2026-10-16T00:00Z",
+      "status": "SCHEDULED",
+      "home": "Lamar",
+      "away": "Incarnate Word",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": null,
+      "draftea_verified": false,
+      "draftea_reference": null
+    },
+    {
+      "id": "soccer:401890185",
+      "provider_id": "401890185",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "NCAA Women's Soccer",
+        "slug": "usa.ncaa.w.1"
+      },
+      "kickoff": "2026-10-16T00:00Z",
+      "status": "SCHEDULED",
+      "home": "Stephen F. Austin",
+      "away": "SE Louisiana",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": null,
+      "draftea_verified": false,
+      "draftea_reference": null
+    },
+    {
+      "id": "soccer:401898745",
+      "provider_id": "401898745",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "NCAA Men's Soccer",
+        "slug": "usa.ncaa.m.1"
+      },
+      "kickoff": "2026-10-16T00:00Z",
+      "status": "SCHEDULED",
+      "home": "Chicago State",
+      "away": "Le Moyne",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": null,
+      "draftea_verified": false,
+      "draftea_reference": null
+    },
+    {
+      "id": "soccer:401899981",
+      "provider_id": "401899981",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "NCAA Women's Soccer",
+        "slug": "usa.ncaa.w.1"
+      },
+      "kickoff": "2026-10-16T00:00Z",
+      "status": "SCHEDULED",
+      "home": "Clemson",
+      "away": "North Carolina",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": null,
+      "draftea_verified": false,
+      "draftea_reference": null
+    },
+    {
+      "id": "soccer:401900117",
+      "provider_id": "401900117",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "NCAA Women's Soccer",
+        "slug": "usa.ncaa.w.1"
+      },
+      "kickoff": "2026-10-16T00:00Z",
+      "status": "SCHEDULED",
+      "home": "Oral Roberts",
+      "away": "North Dakota State",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": null,
+      "draftea_verified": false,
+      "draftea_reference": null
+    },
+    {
+      "id": "soccer:401900148",
+      "provider_id": "401900148",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "NCAA Women's Soccer",
+        "slug": "usa.ncaa.w.1"
+      },
+      "kickoff": "2026-10-16T00:00Z",
+      "status": "SCHEDULED",
+      "home": "Omaha",
+      "away": "South Dakota",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": null,
+      "draftea_verified": false,
+      "draftea_reference": null
+    },
+    {
+      "id": "soccer:401901074",
+      "provider_id": "401901074",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "NCAA Women's Soccer",
+        "slug": "usa.ncaa.w.1"
+      },
+      "kickoff": "2026-10-16T00:00Z",
+      "status": "SCHEDULED",
+      "home": "Valparaiso",
+      "away": "Southern Illinois",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": null,
+      "draftea_verified": false,
+      "draftea_reference": null
+    },
+    {
+      "id": "soccer:401901497",
+      "provider_id": "401901497",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "NCAA Women's Soccer",
+        "slug": "usa.ncaa.w.1"
+      },
+      "kickoff": "2026-10-16T00:00Z",
+      "status": "SCHEDULED",
+      "home": "Central Arkansas",
+      "away": "Austin Peay",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": null,
+      "draftea_verified": false,
+      "draftea_reference": null
+    },
+    {
+      "id": "soccer:401913539",
+      "provider_id": "401913539",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "NCAA Men's Soccer",
+        "slug": "usa.ncaa.m.1"
+      },
+      "kickoff": "2026-10-16T00:00Z",
+      "status": "SCHEDULED",
+      "home": "West Florida",
+      "away": "Pensacola Christian",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": null,
+      "draftea_verified": false,
+      "draftea_reference": null
+    },
+    {
+      "id": "soccer:401912523",
+      "provider_id": "401912523",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "CONMEBOL Libertadores",
+        "slug": "conmebol.libertadores"
+      },
+      "kickoff": "2026-10-16T00:30Z",
+      "status": "SCHEDULED",
+      "home": "Estudiantes de La Plata",
+      "away": "Flamengo",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": "https://www.espn.com/soccer/match/_/gameId/401912523/flamengo-estudiantes-de-la-plata",
+      "draftea_verified": false,
+      "draftea_reference": {
+        "pick": "Estudiantes",
+        "american_odds": 261,
+        "implied_probability": 0.2770083102493075,
+        "date": "2026-10-15",
+        "source": "Capturas de Draftea aportadas por el usuario",
+        "live_verified": false,
+        "note": "Probabilidad implícita del precio, con margen de la casa; no es una probabilidad validada del modelo ni una apuesta segura."
+      }
+    },
+    {
+      "id": "soccer:401879636",
+      "provider_id": "401879636",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "Guatemalan Liga Nacional",
+        "slug": "gua.1"
+      },
+      "kickoff": "2026-10-16T01:00Z",
+      "status": "SCHEDULED",
+      "home": "Suchitepequez",
+      "away": "Deportivo San Pedro",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": "https://www.espn.com/soccer/match/_/gameId/401879636/deportivo-san-pedro-suchitepequez",
+      "draftea_verified": false,
+      "draftea_reference": null
+    },
+    {
+      "id": "soccer:401897202",
+      "provider_id": "401897202",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "NCAA Women's Soccer",
+        "slug": "usa.ncaa.w.1"
+      },
+      "kickoff": "2026-10-16T01:00Z",
+      "status": "SCHEDULED",
+      "home": "Utah Tech",
+      "away": "Northern Colorado",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": null,
+      "draftea_verified": false,
+      "draftea_reference": null
+    },
+    {
+      "id": "soccer:401899778",
+      "provider_id": "401899778",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "Salvadoran Primera Division",
+        "slug": "slv.1"
+      },
+      "kickoff": "2026-10-16T01:00Z",
+      "status": "SCHEDULED",
+      "home": "Luis Ángel Firpo",
+      "away": "Inca Aruba",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": "https://www.espn.com/soccer/match/_/gameId/401899778/inca-aruba-luis-angel-firpo",
+      "draftea_verified": false,
+      "draftea_reference": null
+    },
+    {
+      "id": "soccer:401900958",
+      "provider_id": "401900958",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "NCAA Women's Soccer",
+        "slug": "usa.ncaa.w.1"
+      },
+      "kickoff": "2026-10-16T01:00Z",
+      "status": "SCHEDULED",
+      "home": "UTEP",
+      "away": "Colorado College",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": null,
+      "draftea_verified": false,
+      "draftea_reference": null
+    },
+    {
+      "id": "soccer:401901017",
+      "provider_id": "401901017",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "NCAA Women's Soccer",
+        "slug": "usa.ncaa.w.1"
+      },
+      "kickoff": "2026-10-16T01:00Z",
+      "status": "SCHEDULED",
+      "home": "UC Davis",
+      "away": "UNLV",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": null,
+      "draftea_verified": false,
+      "draftea_reference": null
+    },
+    {
+      "id": "soccer:401926752",
+      "provider_id": "401926752",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "Honduran Liga Nacional",
+        "slug": "hon.1"
+      },
+      "kickoff": "2026-10-16T01:30Z",
+      "status": "SCHEDULED",
+      "home": "Club Deportivo Olimpia",
+      "away": "Real España",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": "https://www.espn.com/soccer/match/_/gameId/401926752/real-espana-club-deportivo-olimpia",
+      "draftea_verified": false,
+      "draftea_reference": null
+    },
+    {
+      "id": "soccer:401876842",
+      "provider_id": "401876842",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "Costa Rican Primera Division",
+        "slug": "crc.1"
+      },
+      "kickoff": "2026-10-16T02:00Z",
+      "status": "SCHEDULED",
+      "home": "Saprissa",
+      "away": "Sporting San José",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": "https://www.espn.com/soccer/match/_/gameId/401876842/sporting-san-jose-saprissa",
+      "draftea_verified": false,
+      "draftea_reference": null
+    },
+    {
+      "id": "soccer:401900965",
+      "provider_id": "401900965",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "NCAA Women's Soccer",
+        "slug": "usa.ncaa.w.1"
+      },
+      "kickoff": "2026-10-16T02:00Z",
+      "status": "SCHEDULED",
+      "home": "Grand Canyon",
+      "away": "Nevada",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": null,
+      "draftea_verified": false,
+      "draftea_reference": null
+    },
+    {
+      "id": "soccer:401900975",
+      "provider_id": "401900975",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "NCAA Women's Soccer",
+        "slug": "usa.ncaa.w.1"
+      },
+      "kickoff": "2026-10-16T02:00Z",
+      "status": "SCHEDULED",
+      "home": "San José State",
+      "away": "Hawai'i",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": null,
+      "draftea_verified": false,
+      "draftea_reference": null
+    }
+  ],
+  "total": 135,
+  "errors": [],
+  "draftea": {
+    "verified": false,
+    "url": "https://www.draftea.mx/",
+    "notice": "Se cruzan nombres, rivales y horarios con las capturas aportadas. Los momios son los de esas imágenes, no precios actuales ni probabilidades calibradas del modelo. La disponibilidad actual en Draftea sigue sin verificar."
+  },
+  "coverage": "Fútbol internacional y NBA, NFL, MLB, NHL según la fuente. Calendario independiente del modelo de cinco ligas; los encuentros sin datos suficientes no reciben pronósticos inventados.",
+  "screenshot_matches": 41,
+  "favorites": [
+    {
+      "id": "soccer:401915572",
+      "provider_id": "401915572",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "UEFA Europa League",
+        "slug": "uefa.europa"
+      },
+      "kickoff": "2026-10-15T19:00Z",
+      "status": "SCHEDULED",
+      "home": "Stade Rennais",
+      "away": "OFI Crete",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": "https://www.espn.com/soccer/match/_/gameId/401915572/ofi-crete-stade-rennais",
+      "draftea_verified": false,
+      "draftea_reference": {
+        "pick": "Rennes",
+        "american_odds": -476,
+        "implied_probability": 0.8263888888888888,
+        "date": "2026-10-15",
+        "source": "Capturas de Draftea aportadas por el usuario",
+        "live_verified": false,
+        "note": "Probabilidad implícita del precio, con margen de la casa; no es una probabilidad validada del modelo ni una apuesta segura."
+      }
+    },
+    {
+      "id": "soccer:401915575",
+      "provider_id": "401915575",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "UEFA Europa League",
+        "slug": "uefa.europa"
+      },
+      "kickoff": "2026-10-15T16:45Z",
+      "status": "SCHEDULED",
+      "home": "Torreense",
+      "away": "Sunderland",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": "https://www.espn.com/soccer/match/_/gameId/401915575/sunderland-torreense",
+      "draftea_verified": false,
+      "draftea_reference": {
+        "pick": "Sunderland",
+        "american_odds": -303,
+        "implied_probability": 0.7518610421836228,
+        "date": "2026-10-15",
+        "source": "Capturas de Draftea aportadas por el usuario",
+        "live_verified": false,
+        "note": "Probabilidad implícita del precio, con margen de la casa; no es una probabilidad validada del modelo ni una apuesta segura."
+      }
+    },
+    {
+      "id": "soccer:401915746",
+      "provider_id": "401915746",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "UEFA Conference League",
+        "slug": "uefa.europa.conf"
+      },
+      "kickoff": "2026-10-15T19:00Z",
+      "status": "SCHEDULED",
+      "home": "Atalanta",
+      "away": "Pafos",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": "https://www.espn.com/soccer/match/_/gameId/401915746/pafos-atalanta",
+      "draftea_verified": false,
+      "draftea_reference": {
+        "pick": "Atalanta",
+        "american_odds": -294,
+        "implied_probability": 0.7461928934010152,
+        "date": "2026-10-15",
+        "source": "Capturas de Draftea aportadas por el usuario",
+        "live_verified": false,
+        "note": "Probabilidad implícita del precio, con margen de la casa; no es una probabilidad validada del modelo ni una apuesta segura."
+      }
+    },
+    {
+      "id": "soccer:401915855",
+      "provider_id": "401915855",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "UEFA Conference League",
+        "slug": "uefa.europa.conf"
+      },
+      "kickoff": "2026-10-15T16:45Z",
+      "status": "SCHEDULED",
+      "home": "CSKA Sofia",
+      "away": "AS Monaco",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": "https://www.espn.com/soccer/match/_/gameId/401915855/as-monaco-cska-sofia",
+      "draftea_verified": false,
+      "draftea_reference": {
+        "pick": "Monaco",
+        "american_odds": -204,
+        "implied_probability": 0.6710526315789473,
+        "date": "2026-10-15",
+        "source": "Capturas de Draftea aportadas por el usuario",
+        "live_verified": false,
+        "note": "Probabilidad implícita del precio, con margen de la casa; no es una probabilidad validada del modelo ni una apuesta segura."
+      }
+    },
+    {
+      "id": "soccer:401915859",
+      "provider_id": "401915859",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "UEFA Conference League",
+        "slug": "uefa.europa.conf"
+      },
+      "kickoff": "2026-10-15T16:45Z",
+      "status": "SCHEDULED",
+      "home": "Egnatia",
+      "away": "FC Midtjylland",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": "https://www.espn.com/soccer/match/_/gameId/401915859/fc-midtjylland-egnatia",
+      "draftea_verified": false,
+      "draftea_reference": {
+        "pick": "Midtjylland",
+        "american_odds": -182,
+        "implied_probability": 0.6453900709219859,
+        "date": "2026-10-15",
+        "source": "Capturas de Draftea aportadas por el usuario",
+        "live_verified": false,
+        "note": "Probabilidad implícita del precio, con margen de la casa; no es una probabilidad validada del modelo ni una apuesta segura."
+      }
+    },
+    {
+      "id": "soccer:401915576",
+      "provider_id": "401915576",
+      "sport": "soccer",
+      "sport_name": "Fútbol",
+      "competition": {
+        "name": "UEFA Europa League",
+        "slug": "uefa.europa"
+      },
+      "kickoff": "2026-10-15T16:45Z",
+      "status": "SCHEDULED",
+      "home": "Lech Poznan",
+      "away": "Bayer Leverkusen",
+      "match_id": null,
+      "forecast_available": false,
+      "source_url": "https://www.espn.com/soccer/match/_/gameId/401915576/bayer-leverkusen-lech-poznan",
+      "draftea_verified": false,
+      "draftea_reference": {
+        "pick": "Bayer Leverkusen",
+        "american_odds": -175,
+        "implied_probability": 0.6363636363636364,
+        "date": "2026-10-15",
+        "source": "Capturas de Draftea aportadas por el usuario",
+        "live_verified": false,
+        "note": "Probabilidad implícita del precio, con margen de la casa; no es una probabilidad validada del modelo ni una apuesta segura."
+      }
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "settled": 20,
+  "matches": 5,
+  "won": 8,
+  "lost": 12,
+  "prospective_matches": 0,
+  "retrospective_matches": 5,
+  "markets": {
+    "result": {
+      "settled": 5,
+      "won": 1,
+      "lost": 4,
+      "retrospective": 5,
+      "reconstructed": 0,
+      "mean_expected": null,
+      "mean_actual": null,
+      "mean_error": null
+    },
+    "goals": {
+      "settled": 5,
+      "won": 3,
+      "lost": 2,
+      "retrospective": 5,
+      "reconstructed": 2,
+      "mean_expected": 1.6705999999999999,
+      "mean_actual": 3.6,
+      "mean_error": -1.9294
+    },
+    "corners": {
+      "settled": 5,
+      "won": 1,
+      "lost": 4,
+      "retrospective": 5,
+      "reconstructed": 2,
+      "mean_expected": 10.2,
+      "mean_actual": 10.6,
+      "mean_error": -0.4
+    },
+    "yellows": {
+      "settled": 5,
+      "won": 3,
+      "lost": 2,
+      "retrospective": 5,
+      "reconstructed": 2,
+      "mean_expected": 3.7272727272727275,
+      "mean_actual": 3.2,
+      "mean_error": 0.5272727272727272
+    }
+  },
+  "settlement_discrepancies": [],
+  "policy": {
+    "version": "doble-oportunidad-v1-5pp",
+    "threshold_pp": 5,
+    "sample": 5,
+    "single_wins": 1,
+    "candidate_wins": 3,
+    "changed": 2,
+    "close_result_losses": 2,
+    "note": "Comparación retrospectiva de la regla sobre los mismos partidos. No son apuestas ganadas nuevas ni validación independiente."
+  },
+  "conclusion": "La muestra es pequeña. La doble oportunidad cambia la cobertura de la selección, no mejora por sí sola la calibración 1X2. Los coeficientes se mantienen hasta disponer de evidencia temporal suficiente."
+}
