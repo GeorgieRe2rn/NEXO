@@ -12,3 +12,5 @@ export default function ConfidenceBadge({ label = "MEDIA", score }) {
     </span>
   );
 }
+
+// Este es un cambio de la rama dev
