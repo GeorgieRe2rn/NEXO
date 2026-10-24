@@ -38,7 +38,8 @@ ID de proveedor, fecha UTC de inicio y última consulta. El histórico no se eli
 ## Ejecutar en Windows
 
 ```powershell
-.un.ps1
+.
+un.ps1
 ```
 
 Si las dependencias no existen, el script prepara el entorno. PostgreSQL es opcional para desarrollo;
